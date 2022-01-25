@@ -5,8 +5,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Find me around the web 🌎 :
 
 - Learning in public on [Twitter](https://twitter.com/thelloydlobo) or [lloydlobo.com](https://lloydlobo.com) <a href="https://twitter.com/thelloydlobo">
-  <img align="left" alt="José Magalhães | Twitter" width="21px" src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg" style="    padding-right: 5px;
-  ;"/>
+  <img align="left" alt="Lloyd Lobo | Twitter" width="21px" src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg" style= "padding-right: 5px;"/>
   </a> ✍🏾
 - 🏓 Tinkering with interactions on [Codepen](https://codepen.io/lloydlobo)
 - 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/thelloydlobo/)
