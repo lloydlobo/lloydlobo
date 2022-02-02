@@ -1,16 +1,15 @@
 ## Hi there, I'm Lloyd &nbsp;<a href="https://www.lloydlobo.hashnode.dev.com/" target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>&nbsp;👨🏽‍💻
 
-I am a passionate Front-End developer looking to be and do the best I possibly can.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2358A6FF&size=16&duration=5000&lines=I+am+a+passionate+Front-End+Developer;I+am+a+passionate+Writer;I+am+a+passionate+Life-Long+Learner;I+am+a+passionate+Psychology+Nerd;I+am+a+passionate+Design+Aficionado;I+am+a+passionate+Generalist;I+am+a+passionate+Musician;I+am+a+passionate+Dog+Lover;I+am+a+passionate+Failure;I+am+a+passionate+Tree+Hugger+🤣)&nbsp;</br>
+I am striving to be and to do the best that I possibly can.
 
-<!-- :rofl: -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydlobo&label=Profile%20views&color=2ea043&style=flat" alt="lloydlobo" /> </p>
+<p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/about"><img src="https://komarev.com/ghpvc/?username=lloydlobo&label=Profile%20views&color=2ea043&style=flat" alt="lloydlobo" /> </a></p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/about"><img align="right" height="300" width="300" alt="GIF"  src="https://github.com/lloydlobo/lloydlobo/blob/main/assets/lloydlobo-banner.gif" /></a>
 
 ### 🌎 &nbsp;Find me around the web :
 
-- 📖 &nbsp;Learning in public on <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev">lloydlobo.com</a> <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev">&nbsp;✍🏾</a> <span>&nbsp;</span> or <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/thelloydlobo">Twitter</a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/thelloydlobo"><img alt="Lloyd Lobo | Twitter" width="21px" src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg" style= "padding-right: 5px;"/></a>
+- 📖 &nbsp;Learning to `code` in public on <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev">lloydlobo.com</a> <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev">&nbsp;✍🏾</a> <span>&nbsp;</span> or <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/thelloydlobo">Twitter</a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/thelloydlobo"><img alt="Lloyd Lobo | Twitter" width="21px" src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg" style= "padding-right: 5px;"/></a>
 - 🏓 &nbsp;Tinkering with interactions on <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/lloydlobo">Codepen</a>
 - 💼 &nbsp;Sharing updates on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thelloydlobo/">LinkedIn</a>
 
@@ -23,7 +22,7 @@ Hi, I am Lloyd Lobo, a Software Engineer from India. Enthusiast of the best Web 
 - 💗 &nbsp;I enjoy writing code and playing with it
 - 📚 &nbsp;I am currently learning Javascript
 - 👯 &nbsp;I am looking to <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">collaborate</a> and become more participatory in the community
-- 💬 &nbsp;Ask me about anything <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo/lloydlobo/issues">here</a>
+- 💬 &nbsp;Ask me about anything <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo/lloydlobo/discussions">here</a>
 
 <!-- Future
 #### Languages and Frameworks:
@@ -96,18 +95,16 @@ Hi, I am Lloyd Lobo, a Software Engineer from India. Enthusiast of the best Web 
 ### 📕 &nbsp;Latest Blog Posts :
 
 <!-- Activity -->
-<!-- BLOG-POST-LIST:START -->
-- [Write Everyday No Matter What](https://lloydlobo.hashnode.dev/write-everyday-no-matter-what)
-- [Just Write Something](https://lloydlobo.hashnode.dev/just-write-something)
-- [What is Imposter Syndrome? How to Overcome Facing Fears of Inadequacy and Self-Doubt?](https://medium.com/@thelloydlobo/what-is-imposter-syndrome-how-to-overcome-facing-fears-of-inadequacy-and-self-doubt-700be81a346f?source=rss-dec0b201d40d------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 ### 🔭 &nbsp;What's Next? :
 
-See what I am up to next on my <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo/lloydlobo/issues">let me know</a> if you have any suggestions 🙇‍♂️. Oh, and by the way, I am always on board to collaborate with talented, passionate people. The mission is to <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">create something with universal appeal</a> 🙌.
+See what I am up to next on my <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions 🙇‍♂️. Oh, and by the way, I am always on board to collaborate with talented, passionate people. The mission is to <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">create something with universal appeal</a> 🙌.
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2358A6FF&size=16&duration=2000&lines=Universal+Appeal;Cater+to+the+Human+Nature;Enjoyable;Serviceable;Attract+rather+than+promote;Reliable;Non-judgmental;Follows+principles+of+Universal+Truth;Supporting+Everyone's+Success)](https://git.io/typing-svg) -->
 
 <details> 
-	<summary>&nbsp;&nbsp;"Tell me more—I can't get enough!"</summary>
+	<summary>&nbsp;<b>"Tell me more—I can't get enough!"</b></summary>
 	<br>
 	<ul>
 	<li>People want something needful and reliable 🔨. Open-source technologies help open-minded and willing people to build products without any personal profit in mind. Although there are arguments against this.</li>
@@ -120,7 +117,7 @@ See what I am up to next on my <a target="_blank" rel="noopener noreferrer" href
  				<li>Attract rather than promote</li>
 				<li>Reliable</li>       
 				<li>Non-judgmental</li>
-				<li>Follows principles of Univeral Truth</li>
+				<li>Follows principles of Universal Truth</li>
 				<li>Supporting Everyone's Success</li>
 			</ul>
 		</li>
@@ -143,6 +140,8 @@ See what I am up to next on my <a target="_blank" rel="noopener noreferrer" href
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lloydlobo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ---
+
+### 🏋️‍♀️ &nbsp;Stats:
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
@@ -168,8 +167,6 @@ See what I am up to next on my <a target="_blank" rel="noopener noreferrer" href
 
 </details>
 	
-### 🏋️‍♀️ &nbsp;Stats:
-
 <!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
 <p align="center">
 	<img width="48%" src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&column=3&margin-w=15" alt="Lloyd's GitHub Trophies" />
@@ -178,6 +175,13 @@ See what I am up to next on my <a target="_blank" rel="noopener noreferrer" href
 	<img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark" alt="lloydlobo github work streak" />
 <!--   <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&layout=compact&theme=dracula&hide_border=true" /> -->
 </p>
+<!-- 
+Context	URL
+Dark Theme	![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only) -->
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=darcula)
 
 </br>
 
@@ -196,7 +200,7 @@ See what I am up to next on my <a target="_blank" rel="noopener noreferrer" href
 
 <!-- Surprise!  -->
 
-<sub>🤫 <span>&nbsp;</span>Psst! If you have read so far, you are <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/b-E2tcRlgsU?t=183">AWESOME!</a></sub>
+<sub>🤫 <span>&nbsp;</span>Psst! If you have read this far, you are <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/b-E2tcRlgsU?t=183">AWESOME!</a></sub>
 
 <!--
 Made with 🖤
