@@ -173,21 +173,18 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 </details>
 
 <!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
-<p align="center">
-    <img width="48%"
-        src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&column=3&margin-w=15"
+<p align="left">
+    <img width="495px"
+        src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&column=4&margin-w=15"
         alt="Lloyd's GitHub Trophies" />
-    &nbsp
-    &nbsp
-    <img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark"
+    &nbsp;
+		&nbsp;
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark"
         alt="lloydlobo github work streak" />
-    <!--   <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&layout=compact&theme=dracula&hide_border=true" /> -->
 </p>
-
 <!-- README Jokes -->
-<img src="https://readme-jokes.vercel.app/api?&theme=gruvbox&borderColor=%23e1e4e8&textColor=%2398972d&aColor=%2398972d&qColor=%23ebdbb2" />
-<!-- <img src="https://readme-jokes.vercel.app/api?&theme=gruvbox&bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" /> -->
-
+<img height="122px" width="495px" src="https://readme-jokes.vercel.app/api?&theme=gruvbox&borderColor=%23e1e4e8&textColor=%2398972d&aColor=%2398972d&qColor=%23ebdbb2" />
+	
 ### 👏&nbsp;Credits :
 
 <details>
@@ -222,9 +219,6 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
                 href="https://www.linkedin.com/in/thelloydlobo/">LinkedIn</a></li>
     </ul>
 </details>
-
-</br>
-</br>
 
 ---
 
