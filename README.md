@@ -1,12 +1,8 @@
 ## Hi there, I'm Lloyd &nbsp;<a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>&nbsp;👨🏽‍💻
 
-<!-- ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2358A6FF&size=16&duration=5000&lines=I+am+a+passionate+Front-End+Developer;I+am+a+passionate+Writer;I+am+a+passionate+Life-Long+Learner;I+am+a+passionate+Psychology+Nerd;I+am+a+passionate+Design+Aficionado;I+am+a+passionate+Generalist;I+am+a+passionate+Musician;I+am+a+passionate+Dog+Lover;I+am+a+passionate+Failure;I+am+a+passionate+Tree+Hugger+🤣)&nbsp;</br>
-I am striving to be and to do the best that I possibly can. -->
-
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2358A6FF&size=16&duration=4000&lines=I+am+a++Front-end+Developer;I+am+a+Writer;I+am+a+Life-Long+Learner;I+am+a+Psychology+Nerd;I+am+a+Design+Aficionado;I+am+a+Musician;I+am+a+Generalist;I+am+a+Failure;I+am+a+Tree+Hugger+🤣;I+am+a+Misfit;I+am+a+Doggie+and+Kittie+Lover;I+am+a+Nobody;What+am+I?+🤔)](https://lloydlobo.hashnode.dev/about)&nbsp;</br>
-I am striving first, to *Be* and then *Do*—the best that I can.
+I am striving first to Be and then to Do the best that I can.
 
 <p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/about"><img
             src="https://komarev.com/ghpvc/?username=lloydlobo&label=Profile%20views&color=2ea043&style=flat"
@@ -15,44 +11,16 @@ I am striving first, to *Be* and then *Do*—the best that I can.
 <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/about"><img align="right" height="300"
         width="300" alt="GIF" src="https://github.com/lloydlobo/lloydlobo/blob/main/assets/lloydlobo-banner.gif" /></a>
 
-### 🌎 &nbsp;Find me around the web :
-
-- 📖 &nbsp;Learning to `code` in public on <a target="_blank" rel="noopener noreferrer"
-    href="https://lloydlobo.hashnode.dev">lloydlobo.com</a> <a target="_blank" rel="noopener noreferrer"
-    href="https://lloydlobo.hashnode.dev">&nbsp;✍🏾</a> <span>&nbsp;</span> or <a target="_blank"
-    rel="noopener noreferrer" href="https://twitter.com/thelloydlobo">Twitter</a> <a target="_blank"
-    rel="noopener noreferrer" href="https://twitter.com/thelloydlobo"><img alt="Lloyd Lobo | Twitter" width="21px"
-        src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg"
-        style="padding-right: 5px;" /></a>
-- 🏓 &nbsp;Tinkering with interactions on <a target="_blank" rel="noopener noreferrer"
-    href="https://codepen.io/lloydlobo">Codepen</a>
-- 💼 &nbsp;Sharing updates on <a target="_blank" rel="noopener noreferrer"
-    href="https://www.linkedin.com/in/thelloydlobo/">LinkedIn</a>
-
-<!-- </br> -->
-
 ### 🏂 &nbsp;About me :
 
-Hi, I am Lloyd Lobo, a Software Engineer from India. Enthusiast of the best Web Development Technologies. 👀 &nbsp;See
-what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywork.com/lloydlobo">up to now</a>:
+Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about the best web development technologies. See what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywork.com/lloydlobo">up to now</a>:
 
-- 💗 &nbsp;I enjoy writing code and playing with it
-- 📚 &nbsp;I am currently learning Javascript
-- 👯 &nbsp;I am looking to <a target="_blank" rel="noopener noreferrer"
+- 👯 &nbsp;Looking to <a target="_blank" rel="noopener noreferrer"
     href="https://lloydlobo.hashnode.dev/collaborate">collaborate</a> and become more participatory in the community
+- 💗 &nbsp;Enjoy writing `code` and tinkering with it
+- 📚 &nbsp;Currently learning Javascript
 - 💬 &nbsp;Ask me about anything <a target="_blank" rel="noopener noreferrer"
     href="https://github.com/lloydlobo/lloydlobo/discussions">here</a>
-
-<!-- Future
-#### Languages and Frameworks:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
--->
-<!-- </br> -->
 
 ### 💻 &nbsp;Languages & Tools :
 
@@ -129,18 +97,16 @@ what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywor
 
 See what I am up to next on my <a target="_blank" rel="noopener noreferrer"
     href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions 🙇‍♂️. Oh, and
+    href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions. 🙇‍♂️ Oh, and
 by the way, I am always on board to collaborate with talented, passionate people. The mission is to <a target="_blank"
     rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">create something with universal
 appeal</a> 🙌.
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2358A6FF&size=16&duration=2000&lines=Universal+Appeal;Cater+to+the+Human+Nature;Enjoyable;Serviceable;Attract+rather+than+promote;Reliable;Non-judgmental;Follows+principles+of+Universal+Truth;Supporting+Everyone's+Success)](https://git.io/typing-svg) -->
 
 <details>
     <summary>&nbsp;<b>"Tell me more—I can't get enough!"</b></summary>
     <br>
     <ul>
-			<li>People want something needful and reliable 🔨.</li>
+			<li>People want something useful and reliable. 🔨</li>
 				<li>Open-source technologies help developers build products without any personal profit 🙅 in mind.
 					<ul>
 						<li>Although there may be some arguments about this.</li> 
@@ -148,16 +114,16 @@ appeal</a> 🙌.
 							Open Source".</li>
 					</ul>
 				</li>
-        <li>The nine qualities for open source contribution 👩‍💻 we need to see are:
+        <li>The nine qualities of open source contributions 👩‍💻 we need to see are:
             <ul>
                 <li>Universal Appeal</li>
                 <li>Cater to the Human Nature</li>
                 <li>Enjoyable</li>
                 <li>Serviceable</li>
-                <li>Attract rather than promote</li>
+                <li>Rather than promoting, Attract</li>
                 <li>Reliable</li>
                 <li>Non-judgmental</li>
-                <li>Follows principles of Universal Truth</li>
+                <li>Adheres to principles of Universal Truth</li>
                 <li>Supporting Everyone's Success</li>
             </ul>
         </li>
@@ -197,6 +163,15 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 ### 🏋️‍♀️ &nbsp;Stats:
 
+<details>
+    <summary><b>📈&nbsp;&nbsp;All-Time Language&nbsp;/&nbsp;Framework Stats</b></summary>
+    <br />
+    <a href='https://profile.codersrank.io/user/lloydlobo/'>
+        <img
+            src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=30&skills=angular,batchfile,c,C%23,coffeescript,css,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue&show-other-skills=true&branding=true&tooltip=true&width=640&height=320&bg=fcd755'>
+    </a>
+</details>
+
 <!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
 <p align="center">
     <img width="48%"
@@ -209,20 +184,65 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
     <!--   <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&layout=compact&theme=dracula&hide_border=true" /> -->
 </p>
 
-<!--
-Context	URL
-Dark Theme	![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only) -->
-<!-- Markdown -->
+<!-- README Jokes -->
+<img src="https://readme-jokes.vercel.app/api?&theme=gruvbox&borderColor=%23e1e4e8&textColor=%2398972d&aColor=%2398972d&qColor=%23ebdbb2" />
+<!-- <img src="https://readme-jokes.vercel.app/api?&theme=gruvbox&bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" /> -->
+
+### 👏&nbsp;Credits :
 
 <details>
-    <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-    <br />
-    <a href='https://profile.codersrank.io/user/lloydlobo/'>
-        <img
-            src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=30&skills=angular,batchfile,c,C%23,coffeescript,css,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue&show-other-skills=true&branding=true&tooltip=true&width=640&height=320&bg=fcd755'>
-    </a>
-    <!-- Stats v2.0 Language and Repositories  -->
+    <summary><b>Open me to see the inspirations behind this README:</b></summary>
+    </br>
+    <p>Listed in order of their appearances from the top to the end:</p>
+    <ul>
+        <li><a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1/readme-typing-svg</a></li>
+        <li><a href="https://komarev.com/ghpvc">antonkomarev/github-profile-views-counter</a></li>
+        <li><a href="https://github.com/gautamkrishnar/blog-post-workflow">gautamkrishnar/blog-post-workflow</a></li>
+        <li><a href="https://github.com/athul/waka-readme#new-to-wakatime">athul/waka-readme</a></li>
+        <li><a href="https://github.com/codersrank-org/skills-chart-widget">codersrank-org/skills-chart-widget</a></li>
+        <li><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li>
+        <li><a href="https://github.com/ryo-ma/github-profile-trophy/">ryo-ma/github-profile-trophy</a></li>
+        <li><a
+                href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a>
+        </li>
+        <li><a href="https://github.com/ABSphreak/readme-jokes">ABSphreak/readme-jokes</a></li>
+    </ul>
+    <h3 id="-nbsp-find-me-around-the-web-">🌎 &nbsp;Find me around the web :</h3>
+    <ul>
+        <li>📖 &nbsp;Learning to <code>code</code> in public on <a target="_blank" rel="noopener noreferrer"
+                href="https://lloydlobo.hashnode.dev">lloydlobo.com</a> <a target="_blank" rel="noopener noreferrer"
+                href="https://lloydlobo.hashnode.dev">&nbsp;✍🏾</a> <span>&nbsp;</span> or <a target="_blank"
+                rel="noopener noreferrer" href="https://twitter.com/thelloydlobo">Twitter</a> <a target="_blank"
+                rel="noopener noreferrer" href="https://twitter.com/thelloydlobo"><img alt="Lloyd Lobo | Twitter"
+                    width="21px" src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg"
+                    style="padding-right: 5px;" /></a></li>
+        <li>🏓 &nbsp;Tinkering with interactions on <a target="_blank" rel="noopener noreferrer"
+                href="https://codepen.io/lloydlobo">Codepen</a></li>
+        <li>💼 &nbsp;Sharing updates on <a target="_blank" rel="noopener noreferrer"
+                href="https://www.linkedin.com/in/thelloydlobo/">LinkedIn</a></li>
+    </ul>
+</details>
+
+</br>
+</br>
+
+---
+
+<!-- Surprise!  -->
+
+<sub>🤫 <span>&nbsp;</span>Psst! If you have read this far, you are <a target="_blank" rel="noopener noreferrer"
+        href="https://youtu.be/b-E2tcRlgsU?t=183">AWESOME!</a></sub>
+
+<!--
+Made with 🖤
+🙇‍♂️🎤⬇️
+-->
+
+<!--  -->
+<!-- Junkyard -->
+<!--  -->
+
+<!-- Stats v2.0 Language and Repositories  -->
 <!--     <p align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo">
             <img width="30%"
@@ -241,34 +261,6 @@ Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only
             alt="lloydlobo most used languages" />
     </p> -->
 
-</details>
-
-<img align="right" src="https://readme-jokes.vercel.app/api?&theme=gruvbox" />
-
-### 👏&nbsp;Credits :
-
-<details>
-	<summary><b>Open me to see the inspirations behind this README:</b></summary>
-		</br><p>Listed in order of their appearances from the top to the end:</p>
-    <ul>
-        <li><a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1/readme-typing-svg</a></li>
-        <li><a href="https://komarev.com/ghpvc">antonkomarev/github-profile-views-counter</a></li>
-        <li><a href="https://github.com/gautamkrishnar/blog-post-workflow">gautamkrishnar/blog-post-workflow</a></li>
-        <li><a href="https://github.com/athul/waka-readme#new-to-wakatime">athul/waka-readme</a></li>
-        <li><a href="https://github.com/codersrank-org/skills-chart-widget">codersrank-org/skills-chart-widget</a></li>
-        <li><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li>
-        <li><a href="https://github.com/ryo-ma/github-profile-trophy/">ryo-ma/github-profile-trophy</a></li>
-        <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></li>
-        <li><a href="https://github.com/ABSphreak/readme-jokes">ABSphreak/readme-jokes</a></li>
-    </ul>
-
-</details>
-
-</br>
-</br>
-
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=darcula) -->
-
 <!--  Footer -->
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.netlify.com">
     <img align="left" alt="@lloydlobo | GitHub profile views"
@@ -285,21 +277,11 @@ Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only
 	</a>
 </p> -->
 
----
-
-<!-- Surprise!  -->
-
-<sub>🤫 <span>&nbsp;</span>Psst! If you have read this far, you are <a target="_blank" rel="noopener noreferrer"
-        href="https://youtu.be/b-E2tcRlgsU?t=183">AWESOME!</a></sub>
-
 <!--
-Made with 🖤
-🙇‍♂️🎤⬇️
--->
-
-<!--  -->
-<!-- Junkyard -->
-<!--  -->
+Context	URL
+Dark Theme	![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only) -->
+<!-- Markdown -->
 
 <!-- Stats Version 1.0 (with 1. stat and 2. stat) -->
 
