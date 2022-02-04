@@ -174,16 +174,16 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
 <p align="left">
-    <img width="495px"
+    <img width="395vw"
         src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&column=4&margin-w=15"
         alt="Lloyd's GitHub Trophies" />
     &nbsp;
 		&nbsp;
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark"
+    <img align="top" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark"
         alt="lloydlobo github work streak" />
 </p>
 <!-- README Jokes -->
-<img height="122px" width="495px" src="https://readme-jokes.vercel.app/api?&theme=gruvbox&borderColor=%23e1e4e8&textColor=%2398972d&aColor=%2398972d&qColor=%23ebdbb2" />
+<img height="122px" width="395vw" src="https://readme-jokes.vercel.app/api?&theme=gruvbox&borderColor=%23e1e4e8&textColor=%2398972d&aColor=%2398972d&qColor=%23ebdbb2" />
 	
 ### 👏&nbsp;Credits :
 
