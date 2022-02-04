@@ -24,9 +24,6 @@
     <!-- <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
 </p>
 
-<!-- ## Hi there, I'm Lloyd &nbsp;<a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>&nbsp;👨🏽‍💻 -->
-<!-- I am striving first to Be and then to Do the best that I can. -->
-
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/about"><img
             src="https://komarev.com/ghpvc/?username=lloydlobo&label=Profile%20views&color=2ea043&style=flat"
             alt="lloydlobo" /> </a></p>
@@ -58,13 +55,13 @@
 <h2> 🏂 &nbsp;About me :</h3>
 
 <p>
-		Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about the best web development technologies.</br>See what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywork.com/lloydlobo">up to now</a>:
+		Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about the best web development technologies. See what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywork.com/lloydlobo">up to now</a>:
 </p>
 <p>
 <ul>
 	<li>🤝 &nbsp;Looking to <a target="_blank" rel="noopener noreferrer"
 		href="https://lloydlobo.hashnode.dev/collaborate">collaborate</a> and become more participatory in the community</li>
-	<li>💗 &nbsp;Enjoy writing `code` and tinkering with it</li>
+	<li>💗 &nbsp;Enjoy <code>coding</code> and documenting about it</li>
 	<li>📚 &nbsp;Currently learning Javascript</li>
 	<li>💬 &nbsp;Ask me about anything <a target="_blank" rel="noopener noreferrer"
 			href="https://github.com/lloydlobo/lloydlobo/discussions">here</a></li>
@@ -75,7 +72,7 @@
 <!-- ALL REPOS & ALL FORKS Button -->
 <p align="left">
   <a href="https://github.com/lloydlobo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/lloydlobo/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 📊 &nbsp;This week, I spent my time on :
@@ -221,10 +218,11 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 🔭 &nbsp;What's Next? :
 
-See what I am up to next on my <a target="_blank" rel="noopener noreferrer"
+- See what I am up to next on my <a target="_blank" rel="noopener noreferrer"
     href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions. 🙇‍♂️ Oh, and
-by the way, I am always on board to collaborate with talented, passionate people. The mission is to <a target="_blank"
+    href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions.   
+- 🙇‍♂️ Oh, and by the way, I am always on board to collaborate with talented, passionate people.   
+- The mission is to <a target="_blank"
     rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">create something with universal
 appeal</a> 🙌.
 
