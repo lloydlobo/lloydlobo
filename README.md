@@ -271,6 +271,11 @@ appeal</a> 🙌.
   <br/>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+2. 💪 Opened PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+3. 🎉 Merged PR [#8](https://github.com/lloydlobo/gatsbynetlify/pull/8) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+4. ❗️ Closed issue [#7](https://github.com/lloydlobo/gatsbynetlify/issues/7) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+5. 💪 Opened PR [#8](https://github.com/lloydlobo/gatsbynetlify/pull/8) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
 <!--END_SECTION:activity-->
 </details>
 
