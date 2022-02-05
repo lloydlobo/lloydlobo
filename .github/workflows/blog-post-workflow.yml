@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://lloydlobo.hashnode.dev/rss.xml,https://dev.to/feed/lloydlobo,https://medium.com/feed/@thelloydlobo,https://lloydlobo.com/feed"
+          feed_list: "https://lloydlobo.hashnode.dev/rss.xml,https://medium.com/feed/@thelloydlobo"
