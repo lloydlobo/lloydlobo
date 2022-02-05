@@ -55,14 +55,14 @@
 <h2> 🏂 &nbsp;About me :</h3>
 
 <p>
-		Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about the best web development technologies. See what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywork.com/lloydlobo">up to now</a>:
+		Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about the best Web Development technologies. See what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywork.com/lloydlobo">up to now</a>:
 </p>
 <p>
 <ul>
 	<li>🤝 &nbsp;Looking to <a target="_blank" rel="noopener noreferrer"
 		href="https://lloydlobo.hashnode.dev/collaborate">collaborate</a> and become more participatory in the community</li>
 	<li>💗 &nbsp;Enjoy <code>coding</code> and documenting about it</li>
-	<li>📚 &nbsp;Currently learning Javascript</li>
+	<li>📚 &nbsp;Currently learning JavaScript</li>
 	<li>💬 &nbsp;Ask me about anything <a target="_blank" rel="noopener noreferrer"
 			href="https://github.com/lloydlobo/lloydlobo/discussions">here</a></li>
 </ul>
@@ -78,13 +78,15 @@
 ## 📊 &nbsp;This week, I spent my time on :
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown     4 hrs 54 mins   ███████████████░░░░░░░░░░   59.93 % 
-MDX          2 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.38 % 
-JavaScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown     4 hrs 54 mins   ███████████████░░░░░░░░░░   59.93 %
+MDX          2 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.38 %
+JavaScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## 🏋 &nbsp;Current Streak :
@@ -208,6 +210,7 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- Activity -->
 <!-- BLOG-POST-LIST:START -->
+
 - [Write Everyday No Matter What](https://lloydlobo.hashnode.dev/write-everyday-no-matter-what)
 - [Just Write Something](https://lloydlobo.hashnode.dev/just-write-something)
 - [What is Imposter Syndrome? How to Overcome Facing Fears of Inadequacy and Self-Doubt?](https://medium.com/@thelloydlobo/what-is-imposter-syndrome-how-to-overcome-facing-fears-of-inadequacy-and-self-doubt-700be81a346f?source=rss-dec0b201d40d------2)
@@ -217,11 +220,11 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 - See what I am up to next on my <a target="_blank" rel="noopener noreferrer"
     href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" rel="noopener noreferrer"
-    href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions.   
-- 🙇‍♂️ Oh, and by the way, I am always on board to collaborate with talented, passionate people.   
+    href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions.
+- 🙇‍♂️ Oh, and by the way, I am always on board to collaborate with talented, passionate people.
 - The mission is to <a target="_blank"
-    rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">create something with universal
-appeal</a> 🙌.
+      rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">create something with universal
+  appeal</a> 🙌.
 
 <details>
     <summary>&nbsp;<b>"Tell me more—I can't get enough!"</b></summary>
@@ -269,13 +272,14 @@ appeal</a> 🙌.
   <br/>
 
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#23495](https://github.com/TheOdinProject/curriculum/pull/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
 2. 🎉 Merged PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
 3. 💪 Opened PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
 4. 🎉 Merged PR [#8](https://github.com/lloydlobo/gatsbynetlify/pull/8) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
 5. ❗️ Closed issue [#7](https://github.com/lloydlobo/gatsbynetlify/issues/7) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-<!--END_SECTION:activity-->
-</details>
+   <!--END_SECTION:activity-->
+   </details>
 
 <!-- Codersrank All-Time Language Stats  -->
 <details>
@@ -288,8 +292,9 @@ appeal</a> 🙌.
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lloydlobo's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lloydlobo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-	
+
 ## 👏&nbsp;Credits :
 
 <details>
@@ -308,7 +313,7 @@ appeal</a> 🙌.
         <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></li>
         <li><a href="https://github.com/ABSphreak/readme-jokes">ABSphreak/readme-jokes</a></li>
     </ul>
-    <h3 id="-nbsp-find-me-around-the-web-">🌎 &nbsp;Find me around the web :</h3>
+    <!-- <h3 id="-nbsp-find-me-around-the-web-">🌎 &nbsp;Find me around the web :</h3>
     <ul>
         <li>📖 &nbsp;Learning to <code>code</code> in public on <a target="_blank" rel="noopener noreferrer"
                 href="https://lloydlobo.hashnode.dev">lloydlobo.com</a> <a target="_blank" rel="noopener noreferrer"
@@ -321,7 +326,7 @@ appeal</a> 🙌.
                 href="https://codepen.io/lloydlobo">Codepen</a></li>
         <li>💼 &nbsp;Sharing updates on <a target="_blank" rel="noopener noreferrer"
                 href="https://www.linkedin.com/in/thelloydlobo/">LinkedIn</a></li>
-    </ul>
+    </ul> -->
 </details>
 
 <!-- README Jokes -->
@@ -362,7 +367,6 @@ Made with 🖤
 
 <!-- Typing SVG -->
 <!-- [![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2358A6FF&size=16&duration=4000&lines=I+am+a++Front-end+Developer;I+am+a+Writer;I+am+a+Life-Long+Learner;I+am+a+Psychology+Nerd;I+am+a+Design+Aficionado;I+am+a+Musician;I+am+a+Generalist;I+am+a+Failure;I+am+a+Tree+Hugger+🤣;I+am+a+Misfit;I+am+a+Doggie+and+Kittie+Lover;I+am+a+Nobody;What+am+I?+🤔)](https://lloydlobo.hashnode.dev/about)&nbsp;</br> -->
-
 
 <!-- Stats v2.0 Language and Repositories  -->
 <!--     <p align="center">
