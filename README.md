@@ -270,11 +270,11 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23495](https://github.com/TheOdinProject/curriculum/issues/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-2. 💪 Opened PR [#23495](https://github.com/TheOdinProject/curriculum/pull/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-3. 🎉 Merged PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-4. 💪 Opened PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-5. 🎉 Merged PR [#8](https://github.com/lloydlobo/gatsbynetlify/pull/8) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+1. 🎉 Merged PR [#10](https://github.com/lloydlobo/gatsbynetlify/pull/10) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+2. 💪 Opened PR [#10](https://github.com/lloydlobo/gatsbynetlify/pull/10) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+3. 🗣 Commented on [#23495](https://github.com/TheOdinProject/curriculum/issues/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+4. 💪 Opened PR [#23495](https://github.com/TheOdinProject/curriculum/pull/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+5. 🎉 Merged PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
    <!--END_SECTION:activity-->
    </details>
 
