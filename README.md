@@ -208,8 +208,8 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- Activity -->
 <!-- BLOG-POST-LIST:START -->
-- [Write Everyday No Matter What](https://lloydlobo.hashnode.dev/write-everyday-no-matter-what)
-- [Just Write Something](https://lloydlobo.hashnode.dev/just-write-something)
+- [Write Everyday No Matter What](https://blog.lloydlobo.com/write-everyday-no-matter-what)
+- [Just Write Something](https://blog.lloydlobo.com/just-write-something)
 - [What is Imposter Syndrome? How to Overcome Facing Fears of Inadequacy and Self-Doubt?](https://medium.com/@thelloydlobo/what-is-imposter-syndrome-how-to-overcome-facing-fears-of-inadequacy-and-self-doubt-700be81a346f?source=rss-dec0b201d40d------2)
 <!-- BLOG-POST-LIST:END -->
 
