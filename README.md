@@ -87,17 +87,23 @@ JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<!-- <summary><b>🔎 Github Profile Details</b></summary> -->
+<!-- <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lloydlobo&theme=github_dark" alt="lloydlobo's GitHub Profile Summary" align = "center"/></p> -->
+
 ## 🏋 &nbsp;Current Streak :
 
 <!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
 <p align="left">
-    <img width="395vw"
+<!--     <img width="395vw"
         src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"
-        alt="Lloyd's GitHub Trophies" />
-    &nbsp;
+        alt="Lloyd's GitHub Trophies" /> -->
+    <img align="center" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=gruvbox&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
+        alt="lloydlobo github work streak" />  
 		&nbsp;
-    <img align="top" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=gruvbox&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
-        alt="lloydlobo github work streak" />
+		&nbsp;
+	<img width="395vw" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lloydlobo&theme=github_dark" alt="lloydlobo's GitHub Profile Summary" align = "center"/>
+<!-- 		<img align="top" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=gruvbox&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
+		alt="lloydlobo github work streak" /> -->
 </p>
 
 <!-- TOOLS ==> ALL LANGUAGES, FRAMEWORKS&LIBRARIES, DATABASE&HOSTING, SOFTWARES&TOOLS -->
@@ -253,6 +259,22 @@ JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 📊 Github stats
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!-- <details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/> -->
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#10](https://github.com/lloydlobo/gatsbynetlify/pull/10) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+2. 💪 Opened PR [#10](https://github.com/lloydlobo/gatsbynetlify/pull/10) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+3. 🗣 Commented on [#23495](https://github.com/TheOdinProject/curriculum/issues/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+4. 💪 Opened PR [#23495](https://github.com/TheOdinProject/curriculum/pull/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+5. 🎉 Merged PR [#9](https://github.com/lloydlobo/gatsbynetlify/pull/9) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+   <!--END_SECTION:activity-->
+
+<!--    </details> -->
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -262,21 +284,6 @@ JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#1](https://github.com/lloydlobo/weather-app/pull/1) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-2. 💪 Opened PR [#1](https://github.com/lloydlobo/weather-app/pull/1) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-3. 🎉 Merged PR [#10](https://github.com/lloydlobo/gatsbynetlify/pull/10) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-4. 💪 Opened PR [#10](https://github.com/lloydlobo/gatsbynetlify/pull/10) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-5. 🗣 Commented on [#23495](https://github.com/TheOdinProject/curriculum/issues/23495) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-   <!--END_SECTION:activity-->
-   </details>
 
 <!-- Codersrank All-Time Language Stats  -->
 <details>
