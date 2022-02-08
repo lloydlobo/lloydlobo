@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to Lloyd Lobo's profile!
-  <a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>&nbsp;<a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" rel="noopener noreferrer">👨🏽‍💻 </a>
+  <a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>&nbsp;<a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" >👨🏽‍💻 </a>
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,65 +9,44 @@
 	</br>
 	I am striving first to Be and then to Do the best that I can.
 
+<!-- Social Icons -->
 <p align="center">
-    <!-- <a href="https://dev.to/lloydlobo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lloydlobo" height="30" width="40" /></a> -->
-    <a href="https://lloydlobo.hashnode.dev" target="blank"><img align="center"
-            src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress"
-            alt="lloydlobo" height="30" width="30" /></a>
-    <a href="https://twitter.com/thelloydlobo" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="thelloydlobo" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/thelloydlobo" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="thelloydlobo" height="30" width="40" /></a>
-    <!-- <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a> -->
-    <!-- <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
+    <a href="https://twitter.com/thelloydlobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Follow Lloyd on Twitter" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/thelloydlobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="Connect with Lloyd on LinkedIn" height="30" width="40" /></a>
+    <a href="https://lloydlobo.hashnode.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" alt="Hashnode" title="Read articles by Lloyd on Hasnode" height="30" width="30" /></a>
+    <a href="https://dev.to/lloydlobo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" title="Read articles by Lloyd on Dev.to" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/18028557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" title="Read answers and questions by Lloyd on Hasnode" height="30" width="40" /></a>
+    <a href="https://instagram.com/thelloydlobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title="Follow Lloyd on Instagram" height="30" width="40" /></a>
+    <a href="https://ko-fi.com/lloydlobo" target="blank"><img align="center" src="https://i.imgur.com/PpLeD3K.png" alt="Ko-fi" title="Buy me a coffee" height="40" width="40" /></a>
 </p>
 
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/about"><img
+<p align="center"> <a target="_blank"  href="https://lloydlobo.hashnode.dev/about"><img
             src="https://komarev.com/ghpvc/?username=lloydlobo&label=Profile%20views&color=2ea043&style=flat"
             alt="lloydlobo" /> </a></p>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-  <a href="https://github.com/lloydlobo?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lloydlobo"/></a>
-  <a href="https://github.com/lloydlobo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lloydlobo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p> -->
-
-<!-- LOTTIEFILE GIF: DEVELOPER AT WORK  -->
-<h3>
-	<p>
-		<a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/about"><img align="right" height="300"
-        width="300" alt="GIF" src="https://github.com/lloydlobo/lloydlobo/blob/main/assets/lloydlobo-banner.gif" />
-		</a>
-	</p>
-</h3>
-
 <!-- ABOUT SECTION -->
-<div align="left">
+<p align="center">
 <h2> 🏂 &nbsp;About me :</h3>
-
 <p>
-		Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about the best Web Development technologies. See what I am <a target="_blank" rel="noopener noreferrer" href="https://www.polywork.com/lloydlobo">up to now</a>:
+		Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about building upon the latest Web Development technologies. See what I am <a target="_blank"  href="https://www.polywork.com/lloydlobo">up to now</a>:
 </p>
 <p>
-<ul>
-	<li>🤝 &nbsp;Looking to <a target="_blank" rel="noopener noreferrer"
-		href="https://lloydlobo.hashnode.dev/collaborate">collaborate</a> and become more participatory in the community</li>
-	<li>💗 &nbsp;Enjoy <code>coding</code> and documenting about it</li>
-	<li>📚 &nbsp;Currently learning JavaScript</li>
-	<li>💬 &nbsp;Ask me about anything <a target="_blank" rel="noopener noreferrer"
-			href="https://github.com/lloydlobo/lloydlobo/discussions">here</a></li>
-</ul>
+    <ul>
+        <li>🤝 &nbsp;Looking to <a target="_blank" 
+            href="https://lloydlobo.hashnode.dev/collaborate">collaborate</a> and become more participatory in the community</li>
+        <li>💗 &nbsp;Enjoy <code>coding</code> and documenting about it</li>
+        <li>📚 &nbsp;Currently learning JavaScript</li>
+        <li>💬 &nbsp;Ask me about anything <a target="_blank" 
+                href="https://github.com/lloydlobo/lloydlobo/discussions">here</a></li>
+    </ul>
 </p>
-</div>
+<!-- LOTTIEFILE GIF: DEVELOPER AT WORK  -->
+<p>
+    <a target="_blank" href="https://lloydlobo.hashnode.dev/about"><img align="right" height="48%"
+    width="48%" alt="LottieFile" title="Developer at work" src="https://github.com/lloydlobo/lloydlobo/blob/main/assets/lloydlobo-banner.gif" />
+    </a>
+</p>
+</p>
 
 <!-- ALL REPOS & ALL FORKS Button -->
 <p align="left">
@@ -78,32 +57,29 @@
 ## 📊 &nbsp;This week, I spent my time on :
 
 <!--START_SECTION:waka-->
-```text
-Markdown     6 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   39.64 % 
-JavaScript   2 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 % 
-HTML         2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-MDX          2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-```
-<!--END_SECTION:waka-->
 
-<!-- <summary><b>🔎 Github Profile Details</b></summary> -->
-<!-- <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lloydlobo&theme=github_dark" alt="lloydlobo's GitHub Profile Summary" align = "center"/></p> -->
+```text
+Markdown     6 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   39.64 %
+JavaScript   2 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+HTML         2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+MDX          2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+```
+
+<!--END_SECTION:waka-->
 
 ## 🏋 &nbsp;Current Streak :
 
 <!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
 <p align="left">
-<!--     <img width="395vw"
+    </br>
+    <img align="center" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
+        alt="lloydlobo GitHub work streak" />&nbsp;
+        &nbsp;
+	<img align = "center" width="395vw" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lloydlobo&theme=github_dark" alt="lloydlobo's GitHub Profile Summary" />
+    <!-- <img width="395vw"
         src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"
         alt="Lloyd's GitHub Trophies" /> -->
-    <img align="center" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=gruvbox&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
-        alt="lloydlobo github work streak" />  
-		&nbsp;
-		&nbsp;
-	<img width="395vw" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lloydlobo&theme=github_dark" alt="lloydlobo's GitHub Profile Summary" align = "center"/>
-<!-- 		<img align="top" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=gruvbox&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
-		alt="lloydlobo github work streak" /> -->
 </p>
 
 <!-- TOOLS ==> ALL LANGUAGES, FRAMEWORKS&LIBRARIES, DATABASE&HOSTING, SOFTWARES&TOOLS -->
@@ -113,32 +89,32 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 ### 👨‍💻 Programming languages
 
 <p>
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.herokuapp.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.herokuapp.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a> -->
 <!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.herokuapp.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a> -->
 <!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a> -->
-<!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a> -->
+<!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
 </p>
 
 ### 📦 Frameworks and libraries
@@ -214,6 +190,7 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 
 <!-- Activity -->
 <!-- BLOG-POST-LIST:START -->
+
 - [Write Everyday No Matter What](https://blog.lloydlobo.com/write-everyday-no-matter-what)
 - [Just Write Something](https://blog.lloydlobo.com/just-write-something)
 - [What is Imposter Syndrome? How to Overcome Facing Fears of Inadequacy and Self-Doubt?](https://medium.com/@thelloydlobo/what-is-imposter-syndrome-how-to-overcome-facing-fears-of-inadequacy-and-self-doubt-700be81a346f?source=rss-dec0b201d40d------2)
@@ -221,12 +198,12 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 
 ## 🔭 &nbsp;What's Next? :
 
-- See what I am up to next on my <a target="_blank" rel="noopener noreferrer"
-    href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" rel="noopener noreferrer"
+- See what I am up to next on my <a target="_blank" 
+    href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" 
     href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions.
 - 🙇‍♂️ Oh, and by the way, I am always on board to collaborate with talented, passionate people.
 - The mission is to <a target="_blank"
-      rel="noopener noreferrer" href="https://lloydlobo.hashnode.dev/collaborate">create something with universal
+       href="https://lloydlobo.hashnode.dev/collaborate">create something with universal
   appeal</a> 🙌.
 
 <details>
@@ -263,7 +240,9 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 <!-- <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/> -->
+
 ### ⚡ Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#3](https://github.com/lloydlobo/weather-app/pull/3) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
@@ -297,152 +276,42 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lloydlobo's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lloydlobo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lloydlobo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lloydlobo&theme=github&hide_border=true&area=true" /></a>
+
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lloydlobo's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lloydlobo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 ## 👏&nbsp;Credits :
 
 <details>
     <summary><b>🖱 &nbsp;Click here to see the inspiration behind this README:</b></summary>
     </br>
-    <p>🎥 &nbsp;Listed in the order of their appearances, starting from the top::</p>
+    <p>🎥 &nbsp;Listed in the order of their appearances, starting from the top:</p>
     <ul>
         <li><a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1/readme-typing-svg</a></li>
         <li><a href="https://komarev.com/ghpvc">antonkomarev/github-profile-views-counter</a></li>
-				<li><a href="https://lottiefiles.com/36121-developer-at-work">"Emad Moradian - Developer at work" (Customized GIF)</a></li>
-        <li><a href="https://github.com/gautamkrishnar/blog-post-workflow">gautamkrishnar/blog-post-workflow</a></li>
-        <li><a href="https://github.com/athul/waka-readme#new-to-wakatime">athul/waka-readme</a></li>
-        <li><a href="https://github.com/codersrank-org/skills-chart-widget">codersrank-org/skills-chart-widget</a></li>
-<!--         <li><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li> -->
-        <li><a href="https://github.com/ryo-ma/github-profile-trophy/">ryo-ma/github-profile-trophy</a></li>
+        <li><a href="https://lottiefiles.com/36121-developer-at-work">"Emad Moradian - Developer at work" (Customized GIF)</a></li>
+        <li><a href="https://github.com/athul/waka-readme">athul/waka-readme</a></li>
         <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></li>
-        <li><a href="https://github.com/ABSphreak/readme-jokes">ABSphreak/readme-jokes</a></li>
+        <li><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">vn7n24fzkq/github-profile-summary-cards</a></li>
+        <li><a href="https://github.com/gautamkrishnar/blog-post-workflow">gautamkrishnar/blog-post-workflow</a></li>
+        <li><a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></li>
+        <li><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></li>
+        <li><a href="https://github.com/codersrank-org/skills-chart-widget">codersrank-org/skills-chart-widget</a></li>
+        <!-- <li><a href="https://github.com/ryo-ma/github-profile-trophy/">ryo-ma/github-profile-trophy</a></li> -->
+        <li><a href="https://github.com/ashutosh00710/github-readme-activity-graph">ashutosh00710/github-readme-activity-graph</a></li>
+        <!-- <li><a href="https://github.com/ABSphreak/readme-jokes">ABSphreak/readme-jokes</a></li> -->
     </ul>
-    <!-- <h3 id="-nbsp-find-me-around-the-web-">🌎 &nbsp;Find me around the web :</h3>
-    <ul>
-        <li>📖 &nbsp;Learning to <code>code</code> in public on <a target="_blank" rel="noopener noreferrer"
-                href="https://lloydlobo.hashnode.dev">lloydlobo.com</a> <a target="_blank" rel="noopener noreferrer"
-                href="https://lloydlobo.hashnode.dev">&nbsp;✍🏾</a> <span>&nbsp;</span> or <a target="_blank"
-                rel="noopener noreferrer" href="https://twitter.com/thelloydlobo">Twitter</a> <a target="_blank"
-                rel="noopener noreferrer" href="https://twitter.com/thelloydlobo"><img alt="Lloyd Lobo | Twitter"
-                    width="21px" src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg"
-                    style="padding-right: 5px;" /></a></li>
-        <li>🏓 &nbsp;Tinkering with interactions on <a target="_blank" rel="noopener noreferrer"
-                href="https://codepen.io/lloydlobo">Codepen</a></li>
-        <li>💼 &nbsp;Sharing updates on <a target="_blank" rel="noopener noreferrer"
-                href="https://www.linkedin.com/in/thelloydlobo/">LinkedIn</a></li>
-    </ul> -->
+    
 </details>
-
-<!-- README Jokes -->
-<!-- <img height="130vw" width="395vw" src="https://readme-jokes.vercel.app/api?&theme=gruvbox&hideBorder=true&borderColor=%23babdc0&textColor=%2398972d&aColor=%2398972d&qColor=%23ebdbb2" /> -->
-
-<!-- Social icons section -->
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p> -->
-
-<!-- ## 🔗 &nbsp;Connect with me : -->
 
 ---
 
 <!-- Surprise!  -->
 
-<sub>🤫 <span>&nbsp;</span>Psst! If you have read this far, you are <a target="_blank" rel="noopener noreferrer"
+<sub>🤫 <span>&nbsp;</span>Psst! If you have read this far, you are <a target="_blank" 
         href="https://youtu.be/b-E2tcRlgsU?t=183">AWESOME!</a></sub>
 
 <!--
 Made with 🖤
 🙇‍♂️🎤⬇️
 -->
-
-<!--  -->
-<!-- Junkyard -->
-<!--  -->
-
-<!-- Typing SVG -->
-<!-- [![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2358A6FF&size=16&duration=4000&lines=I+am+a++Front-end+Developer;I+am+a+Writer;I+am+a+Life-Long+Learner;I+am+a+Psychology+Nerd;I+am+a+Design+Aficionado;I+am+a+Musician;I+am+a+Generalist;I+am+a+Failure;I+am+a+Tree+Hugger+🤣;I+am+a+Misfit;I+am+a+Doggie+and+Kittie+Lover;I+am+a+Nobody;What+am+I?+🤔)](https://lloydlobo.hashnode.dev/about)&nbsp;</br> -->
-
-<!-- Stats v2.0 Language and Repositories  -->
-<!--     <p align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo">
-            <img width="30%"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=lloydlobo&theme=dracula" />
-        </a>
-        &nbsp
-        &nbsp
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo">
-            <img width="30%"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=lloydlobo&theme=dracula" />
-        </a>
-        &nbsp
-        &nbsp
-        <img width="30%"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&layout=compact&theme=dracula&locale=en&show_icons=true"
-            alt="lloydlobo most used languages" />
-    </p> -->
-
-<!--  Footer -->
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://lloydlobo.netlify.com">
-    <img align="left" alt="@lloydlobo | GitHub profile views"
-        src="https://komarev.com/ghpvc/?username=lloydlobo&label=Profile%20views&color=2ea043&style=flat" />
-</a> -->
-<!-- <p align="left">
-	<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/thelloydlobo">
-			<img align="right" alt="Lloyd Lobo | Twitter" width="21px"
-					src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/twitter.svg" />
-	</a>
-	<a target="_blank" rel="noopener noreferrer" href="https://codesandbox.io/u/lloydlobo">
-			<img align="right" alt="Lloyd Lobo | CodeSandbox" width="20px"
-					src="https://raw.githubusercontent.com/lloydlobo/lloydlobo/main/assets/codesandbox.svg" />
-	</a>
-</p> -->
-
-<!--
-Context	URL
-Dark Theme	![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only) -->
-<!-- Markdown -->
-
-<!-- Stats Version 1.0 (with 1. stat and 2. stat) -->
-
-<!-- | <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo/lloydlobo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Lloyd's GitHub stats" /></a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo/lloydlobo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
-
-<!-- </br> -->
-
-<!-- ### 🍿 Top Repositories: -->
-
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=lloydlobo&theme=dracula" />
-</a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo/lloydlobo.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=lloydlobo.github.io&theme=dracula" />
-</a> -->
-
-<!-- #### Recent Activity -->
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
-<!-- <p align="center">
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&column=3&margin-w=15" alt="Lloyd's GitHub Trophies" />
-	&nbsp
-  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&layout=compact&theme=dracula&hide_border=true" /></span>
-</p> -->
-
-<!-- Stats v1.0 Language and Repositories  -->
-<!-- |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&layout=compact&theme=dracula&hide_border=true&locale=en&show_icons=true" alt="lloydlobo most used languages" />|<a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=lloydlobo&theme=dracula" /></a>|<a target="_blank" rel="noopener noreferrer" href="https://github.com/lloydlobo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=lloydlobo&theme=dracula" /></a>|
-|:--|:--:|--:| -->
-<!-- CLOJURE -->
