@@ -242,11 +242,11 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23514](https://github.com/TheOdinProject/curriculum/issues/23514) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-2. 💪 Opened PR [#23514](https://github.com/TheOdinProject/curriculum/pull/23514) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-3. 🗣 Commented on [#23513](https://github.com/TheOdinProject/curriculum/issues/23513) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-4. 💪 Opened PR [#23513](https://github.com/TheOdinProject/curriculum/pull/23513) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-5. 🎉 Merged PR [#3](https://github.com/lloydlobo/weather-app/pull/3) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+1. ❗️ Opened issue [#23515](https://github.com/TheOdinProject/curriculum/issues/23515) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+2. 🗣 Commented on [#23514](https://github.com/TheOdinProject/curriculum/issues/23514) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+3. 💪 Opened PR [#23514](https://github.com/TheOdinProject/curriculum/pull/23514) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+4. 🗣 Commented on [#23513](https://github.com/TheOdinProject/curriculum/issues/23513) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+5. 💪 Opened PR [#23513](https://github.com/TheOdinProject/curriculum/pull/23513) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
