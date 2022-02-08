@@ -266,11 +266,11 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-2. 🎉 Merged PR [#15](https://github.com/lloydlobo/gatsbynetlify/pull/15) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-3. 💪 Opened PR [#15](https://github.com/lloydlobo/gatsbynetlify/pull/15) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-4. 🎉 Merged PR [#14](https://github.com/lloydlobo/gatsbynetlify/pull/14) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-5. 💪 Opened PR [#14](https://github.com/lloydlobo/gatsbynetlify/pull/14) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+1. 🎉 Merged PR [#3](https://github.com/lloydlobo/weather-app/pull/3) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+2. 💪 Opened PR [#3](https://github.com/lloydlobo/weather-app/pull/3) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+3. 🎉 Merged PR [#2](https://github.com/lloydlobo/weather-app/pull/2) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+4. 💪 Opened PR [#2](https://github.com/lloydlobo/weather-app/pull/2) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+5. ❗️ Opened issue [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
