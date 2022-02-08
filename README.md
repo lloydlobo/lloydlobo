@@ -1,11 +1,11 @@
 <h3 align="center">
   Welcome to Lloyd Lobo's profile!
-  <a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>&nbsp;<a href="https://www.lloydlobo.hashnode.dev.com/" target="\_blank" >👨🏽‍💻 </a>
+  <a href="https://www.lloydlobo.com/" target="\_blank" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>&nbsp;<a href="https://www.lloydlobo.com/" target="\_blank" >👨🏽‍💻 </a>
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://lloydlobo.hashnode.dev/about"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a++Front-end+Developer;I+am+a+Writer;I+am+a+Life-Long+Learner;I+am+a+Psychology+Nerd;I+am+a+Design+Aficionado;I+am+a+Musician;I+am+a+Generalist;I+am+a+Failure;I+am+a+Tree+Hugger+🤣;I+am+a+Misfit;I+am+a+Doggie+and+Kittie+Lover;I+am+a+Nobody;What+am+I?+🤔&font=Fira%20Code&center=true&width=440&height=45&color=2ea043&vCenter=true&size=22&duration=4000"></a>
+	<a href="https://www.lloydlobo.com/about"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a++Front-end+Developer;I+am+a+Writer;I+am+a+Life-Long+Learner;I+am+a+Psychology+Nerd;I+am+a+Design+Aficionado;I+am+a+Musician;I+am+a+Generalist;I+am+a+Failure;I+am+a+Tree+Hugger+🤣;I+am+a+Misfit;I+am+a+Doggie+and+Kittie+Lover;I+am+a+Nobody;What+am+I?+🤔&font=Fira%20Code&center=true&width=440&height=45&color=2ea043&vCenter=true&size=22&duration=4000"></a>
 	</br>
 	I am striving first to Be and then to Do the best that I can.
 
@@ -20,7 +20,7 @@
     <a href="https://ko-fi.com/lloydlobo" target="blank"><img align="center" src="https://i.imgur.com/PpLeD3K.png" alt="Ko-fi" title="Buy me a coffee" height="40" width="40" /></a>
 </p>
 
-<p align="center"> <a target="_blank"  href="https://lloydlobo.hashnode.dev/about"><img
+<p align="center"> <a target="_blank"  href="https://www.lloydlobo.com"><img
             src="https://komarev.com/ghpvc/?username=lloydlobo&label=Profile%20views&color=2ea043&style=flat"
             alt="lloydlobo" /> </a></p>
 
@@ -33,21 +33,27 @@
 <p>
     <ul>
         <li>🤝 &nbsp;Looking to <a target="_blank" 
-            href="https://lloydlobo.hashnode.dev/collaborate">collaborate</a> and become more participatory in the community</li>
-        <li>💗 &nbsp;Enjoy <code>coding</code> and documenting about it</li>
+            href="https://blog.lloydlobo.com/collaborate">collaborate</a> and become more participatory in the community</li>
+        <li>💗 &nbsp;Enjoy <code>coding</code> and <a target="_blank" href="https://blog.lloydlobo.com/microblog">documenting</a> about it</li>
         <li>📚 &nbsp;Currently learning JavaScript</li>
         <li>💬 &nbsp;Ask me about anything <a target="_blank" 
                 href="https://github.com/lloydlobo/lloydlobo/discussions">here</a></li>
     </ul>
 </p>
+
+
 <!-- LOTTIEFILE GIF: DEVELOPER AT WORK  -->
 <p>
-    <a target="_blank" href="https://lloydlobo.hashnode.dev/about"><img align="right" height="48%"
-    width="48%" alt="LottieFile" title="Developer at work" src="https://github.com/lloydlobo/lloydlobo/blob/main/assets/lloydlobo-banner.gif" />
+    <a target="_blank" href="https://blog.lloydlobo.com/about"><img align="right" height="200vw"
+    width="200vw" alt="LottieFile" title="Developer at work" src="https://github.com/lloydlobo/lloydlobo/blob/main/assets/lloydlobo-banner.gif" />
     </a>
 </p>
 </p>
 
+> _Just try and fix something. One thing, two things, another thing tomorrow._     
+> _And if you can do that, then trust me, you'll be making a difference for somebody out there._
+>
+>_— Léonie Watson, Front-Trends 2015_
 <!-- ALL REPOS & ALL FORKS Button -->
 <p align="left">
   <a href="https://github.com/lloydlobo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -196,11 +202,11 @@ CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░
 ## 🔭 &nbsp;What's Next? :
 
 - See what I am up to next on my <a target="_blank" 
-    href="https://lloydlobo.hashnode.dev/now">roadmap</a> ✨ and <a target="_blank" 
+    href="https://blog.lloydlobo.com/now">roadmap</a> ✨ and <a target="_blank" 
     href="https://github.com/lloydlobo/lloydlobo/discussions">let me know</a> if you have any suggestions.
 - 🙇‍♂️ Oh, and by the way, I am always on board to collaborate with talented, passionate people.
 - The mission is to <a target="_blank"
-       href="https://lloydlobo.hashnode.dev/collaborate">create something with universal
+       href="https://blog.lloydlobo.com/collaborate">create something with universal
   appeal</a> 🙌.
 
 <details>
