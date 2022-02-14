@@ -249,11 +249,11 @@ MDX          44 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/lloydlobo/weather-app/pull/21) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-2. 💪 Opened PR [#21](https://github.com/lloydlobo/weather-app/pull/21) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-3. 🎉 Merged PR [#20](https://github.com/lloydlobo/weather-app/pull/20) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-4. 💪 Opened PR [#20](https://github.com/lloydlobo/weather-app/pull/20) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-5. 🎉 Merged PR [#19](https://github.com/lloydlobo/weather-app/pull/19) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+1. 🎉 Merged PR [#22](https://github.com/lloydlobo/weather-app/pull/22) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+2. 💪 Opened PR [#22](https://github.com/lloydlobo/weather-app/pull/22) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+3. 🎉 Merged PR [#21](https://github.com/lloydlobo/weather-app/pull/21) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+4. 💪 Opened PR [#21](https://github.com/lloydlobo/weather-app/pull/21) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+5. 🎉 Merged PR [#20](https://github.com/lloydlobo/weather-app/pull/20) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
