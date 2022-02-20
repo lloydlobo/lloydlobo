@@ -64,8 +64,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs 47 mins
-
 JavaScript   2 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   35.34 % 
 Markdown     1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
 HTML         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
