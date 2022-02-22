@@ -249,11 +249,11 @@ CSS          10 mins         █▒░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#23642](https://github.com/TheOdinProject/curriculum/pull/23642) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-2. 🎉 Merged PR [#27](https://github.com/lloydlobo/weather-app/pull/27) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-3. 💪 Opened PR [#27](https://github.com/lloydlobo/weather-app/pull/27) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-4. ❗️ Opened issue [#26](https://github.com/lloydlobo/weather-app/issues/26) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-5. ❌ Closed PR [#23](https://github.com/lloydlobo/weather-app/pull/23) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+1. 🗣 Commented on [#23642](https://github.com/TheOdinProject/curriculum/issues/23642) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+2. 💪 Opened PR [#23642](https://github.com/TheOdinProject/curriculum/pull/23642) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+3. 🎉 Merged PR [#27](https://github.com/lloydlobo/weather-app/pull/27) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+4. 💪 Opened PR [#27](https://github.com/lloydlobo/weather-app/pull/27) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+5. ❗️ Opened issue [#26](https://github.com/lloydlobo/weather-app/issues/26) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
