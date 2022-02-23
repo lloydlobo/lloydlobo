@@ -249,11 +249,11 @@ Text         20 mins         █▒░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/lloydlobo/css-exercises/pull/3) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
-2. 💪 Opened PR [#3](https://github.com/lloydlobo/css-exercises/pull/3) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
-3. 🎉 Merged PR [#2](https://github.com/lloydlobo/css-exercises/pull/2) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
-4. 💪 Opened PR [#2](https://github.com/lloydlobo/css-exercises/pull/2) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
-5. 🗣 Commented on [#23642](https://github.com/TheOdinProject/curriculum/issues/23642) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+1. 🎉 Merged PR [#4](https://github.com/lloydlobo/css-exercises/pull/4) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
+2. 💪 Opened PR [#4](https://github.com/lloydlobo/css-exercises/pull/4) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
+3. 🎉 Merged PR [#3](https://github.com/lloydlobo/css-exercises/pull/3) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
+4. 💪 Opened PR [#3](https://github.com/lloydlobo/css-exercises/pull/3) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
+5. 🎉 Merged PR [#2](https://github.com/lloydlobo/css-exercises/pull/2) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
