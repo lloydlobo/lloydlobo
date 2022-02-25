@@ -28,7 +28,7 @@
 <p align="center">
 <h2> 🏂 &nbsp;About me :</h3>
 <p>
-		Hi, I am Lloyd Lobo, a software engineer from India. I am enthusiastic about building upon the latest Web Development technologies. See what I am <a target="_blank"  href="https://www.polywork.com/lloydlobo">up to now</a>:
+		Hi, I am Lloyd Lobo, a software engineer from India. I am enjoy building upon the latest Web Development technologies. I intend to be a servant leader. See what I am <a target="_blank"  href="https://www.polywork.com/lloydlobo">up to now</a>:
 </p>
 <p>
     <ul>
