@@ -249,11 +249,11 @@ Bash       4 mins          ▒░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/lloydlobo/odin-recipes/pull/2) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-2. 🎉 Merged PR [#1](https://github.com/lloydlobo/odin-recipes/pull/1) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-3. 🎉 Merged PR [#4](https://github.com/lloydlobo/css-exercises/pull/4) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
-4. 💪 Opened PR [#4](https://github.com/lloydlobo/css-exercises/pull/4) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
-5. 🎉 Merged PR [#3](https://github.com/lloydlobo/css-exercises/pull/3) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
+1. 🎉 Merged PR [#3](https://github.com/lloydlobo/odin-recipes/pull/3) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+2. 🎉 Merged PR [#2](https://github.com/lloydlobo/odin-recipes/pull/2) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+3. 🎉 Merged PR [#1](https://github.com/lloydlobo/odin-recipes/pull/1) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+4. 🎉 Merged PR [#4](https://github.com/lloydlobo/css-exercises/pull/4) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
+5. 💪 Opened PR [#4](https://github.com/lloydlobo/css-exercises/pull/4) in [lloydlobo/css-exercises](https://github.com/lloydlobo/css-exercises)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
