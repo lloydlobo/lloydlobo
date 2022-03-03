@@ -252,11 +252,11 @@ Git          10 mins         ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/lloydlobo/odin-recipes/pull/6) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-2. 🎉 Merged PR [#4](https://github.com/lloydlobo/odin-recipes/pull/4) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-3. 💪 Opened PR [#4](https://github.com/lloydlobo/odin-recipes/pull/4) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-4. 🎉 Merged PR [#1](https://github.com/lloydlobo/css-js-starter-kit/pull/1) in [lloydlobo/css-js-starter-kit](https://github.com/lloydlobo/css-js-starter-kit)
-5. 🎉 Merged PR [#3](https://github.com/lloydlobo/odin-recipes/pull/3) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+1. ❗️ Closed issue [#5](https://github.com/lloydlobo/odin-recipes/issues/5) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+2. 🗣 Commented on [#5](https://github.com/lloydlobo/odin-recipes/issues/5) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+3. 🎉 Merged PR [#6](https://github.com/lloydlobo/odin-recipes/pull/6) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+4. 🎉 Merged PR [#4](https://github.com/lloydlobo/odin-recipes/pull/4) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+5. 💪 Opened PR [#4](https://github.com/lloydlobo/odin-recipes/pull/4) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
