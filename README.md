@@ -252,11 +252,11 @@ Git Config   12 mins         ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#23714](https://github.com/TheOdinProject/curriculum/pull/23714) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-2. 🎉 Merged PR [#11](https://github.com/lloydlobo/odin-recipes/pull/11) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-3. 💪 Opened PR [#11](https://github.com/lloydlobo/odin-recipes/pull/11) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-4. 🎉 Merged PR [#10](https://github.com/lloydlobo/odin-recipes/pull/10) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
-5. 💪 Opened PR [#10](https://github.com/lloydlobo/odin-recipes/pull/10) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+1. 🗣 Commented on [#23714](https://github.com/TheOdinProject/curriculum/issues/23714) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+2. 💪 Opened PR [#23714](https://github.com/TheOdinProject/curriculum/pull/23714) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+3. 🎉 Merged PR [#11](https://github.com/lloydlobo/odin-recipes/pull/11) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+4. 💪 Opened PR [#11](https://github.com/lloydlobo/odin-recipes/pull/11) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+5. 🎉 Merged PR [#10](https://github.com/lloydlobo/odin-recipes/pull/10) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
