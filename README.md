@@ -252,11 +252,11 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/lloydlobo/Portfolio/pull/2) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-2. 💪 Opened PR [#2](https://github.com/lloydlobo/Portfolio/pull/2) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-3. 🎉 Merged PR [#1](https://github.com/lloydlobo/Portfolio/pull/1) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-4. 🗣 Commented on [#23714](https://github.com/TheOdinProject/curriculum/issues/23714) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-5. 💪 Opened PR [#23714](https://github.com/TheOdinProject/curriculum/pull/23714) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+1. 🎉 Merged PR [#3](https://github.com/lloydlobo/Portfolio/pull/3) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+2. 💪 Opened PR [#3](https://github.com/lloydlobo/Portfolio/pull/3) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+3. 🎉 Merged PR [#2](https://github.com/lloydlobo/Portfolio/pull/2) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+4. 💪 Opened PR [#2](https://github.com/lloydlobo/Portfolio/pull/2) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+5. 🎉 Merged PR [#1](https://github.com/lloydlobo/Portfolio/pull/1) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
