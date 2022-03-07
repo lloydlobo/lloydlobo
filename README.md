@@ -252,11 +252,11 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5](https://github.com/lloydlobo/Portfolio/pull/5) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-2. 🎉 Merged PR [#4](https://github.com/lloydlobo/Portfolio/pull/4) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-3. 💪 Opened PR [#4](https://github.com/lloydlobo/Portfolio/pull/4) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-4. 🎉 Merged PR [#3](https://github.com/lloydlobo/Portfolio/pull/3) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-5. 💪 Opened PR [#3](https://github.com/lloydlobo/Portfolio/pull/3) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+1. 🎉 Merged PR [#5](https://github.com/lloydlobo/Portfolio/pull/5) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+2. 💪 Opened PR [#5](https://github.com/lloydlobo/Portfolio/pull/5) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+3. 🎉 Merged PR [#4](https://github.com/lloydlobo/Portfolio/pull/4) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+4. 💪 Opened PR [#4](https://github.com/lloydlobo/Portfolio/pull/4) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+5. 🎉 Merged PR [#3](https://github.com/lloydlobo/Portfolio/pull/3) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
