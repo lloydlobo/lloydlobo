@@ -62,6 +62,11 @@
 
 ## 📊 &nbsp;This week, I spent my time on :
 
+<sub>Uses [WakaTime](https://wakatime.com/@lloydlobo) integrated into Vs Code</sub>
+
+<img target="_blank" src="https://hookrace.net/time.gif">
+
+
 <!--START_SECTION:waka-->
 
 ```text
