@@ -302,6 +302,7 @@ Markdown     2 mins          ░░░░░░░░░░░░░░░░░
         <li><a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1/readme-typing-svg</a></li>
         <li><a href="https://komarev.com/ghpvc">antonkomarev/github-profile-views-counter</a></li>
         <li><a href="https://lottiefiles.com/36121-developer-at-work">"Emad Moradian - Developer at work" (Customized GIF)</a></li>
+	<li><a href="https://github.com/def-/time.gif">def-/time.gif</a></li>
         <li><a href="https://github.com/athul/waka-readme">athul/waka-readme</a></li>
         <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1/github-readme-streak-stats</a></li>
         <li><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">vn7n24fzkq/github-profile-summary-cards</a></li>
