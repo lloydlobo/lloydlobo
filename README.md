@@ -62,11 +62,6 @@
 
 ## 📊 &nbsp;This week, I spent my time on :
 
-<sub>Uses [WakaTime](https://wakatime.com/@lloydlobo) integrated into Vs Code</sub>
-
-<img target="_blank" src="https://hookrace.net/time.gif">
-
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -80,19 +75,23 @@ Markdown     2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<sub>Uses [WakaTime](https://wakatime.com/@lloydlobo) integrated with VS Code</sub>
+
+<!-- <img src="https://hookrace.net/time.gif"> -->
+
 ## 🏋 &nbsp;Current Streak :
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
+        alt="lloydlobo GitHub work streak" />
+
 <!-- Stats Version 4.0 (with 1. trophy and 2. stat) HTML TABLE -->
-<p align="left">
+<!-- <p align="left">
     </br>
     <img align="center" width="395vw" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
         alt="lloydlobo GitHub work streak" />&nbsp;
         &nbsp;
 	<img align = "center" width="395vw" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lloydlobo&theme=github_dark" alt="lloydlobo's GitHub Profile Summary" />
-    <!-- <img width="395vw"
-        src="https://github-profile-trophy.vercel.app/?username=lloydlobo&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"
-        alt="Lloyd's GitHub Trophies" /> -->
-</p>
+</p> -->
 
 <!-- TOOLS ==> ALL LANGUAGES, FRAMEWORKS&LIBRARIES, DATABASE&HOSTING, SOFTWARES&TOOLS -->
 
