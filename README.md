@@ -256,11 +256,11 @@ Markdown     2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/lloydlobo/Portfolio/pull/10) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-2. 💪 Opened PR [#10](https://github.com/lloydlobo/Portfolio/pull/10) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-3. 🎉 Merged PR [#1](https://github.com/lloydlobo/JavaScript30/pull/1) in [lloydlobo/JavaScript30](https://github.com/lloydlobo/JavaScript30)
-4. 💪 Opened PR [#1](https://github.com/lloydlobo/JavaScript30/pull/1) in [lloydlobo/JavaScript30](https://github.com/lloydlobo/JavaScript30)
-5. 🎉 Merged PR [#9](https://github.com/lloydlobo/Portfolio/pull/9) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+1. 🎉 Merged PR [#11](https://github.com/lloydlobo/Portfolio/pull/11) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+2. 💪 Opened PR [#11](https://github.com/lloydlobo/Portfolio/pull/11) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+3. 🎉 Merged PR [#10](https://github.com/lloydlobo/Portfolio/pull/10) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+4. 💪 Opened PR [#10](https://github.com/lloydlobo/Portfolio/pull/10) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+5. 🎉 Merged PR [#1](https://github.com/lloydlobo/JavaScript30/pull/1) in [lloydlobo/JavaScript30](https://github.com/lloydlobo/JavaScript30)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
