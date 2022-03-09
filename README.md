@@ -256,11 +256,11 @@ Git Config   10 mins         ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#13](https://github.com/lloydlobo/Portfolio/issues/13) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-2. 🎉 Merged PR [#12](https://github.com/lloydlobo/Portfolio/pull/12) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-3. 💪 Opened PR [#12](https://github.com/lloydlobo/Portfolio/pull/12) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-4. 🎉 Merged PR [#11](https://github.com/lloydlobo/Portfolio/pull/11) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-5. 💪 Opened PR [#11](https://github.com/lloydlobo/Portfolio/pull/11) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+1. ❗️ Opened issue [#14](https://github.com/lloydlobo/Portfolio/issues/14) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+2. ❗️ Opened issue [#13](https://github.com/lloydlobo/Portfolio/issues/13) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+3. 🎉 Merged PR [#12](https://github.com/lloydlobo/Portfolio/pull/12) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+4. 💪 Opened PR [#12](https://github.com/lloydlobo/Portfolio/pull/12) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+5. 🎉 Merged PR [#11](https://github.com/lloydlobo/Portfolio/pull/11) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
