@@ -256,11 +256,11 @@ Markdown     33 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#10](https://github.com/lloydlobo/odin-thors-landing/pull/10) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-2. 🎉 Merged PR [#9](https://github.com/lloydlobo/odin-thors-landing/pull/9) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-3. 🎉 Merged PR [#8](https://github.com/lloydlobo/odin-thors-landing/pull/8) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-4. 💪 Opened PR [#8](https://github.com/lloydlobo/odin-thors-landing/pull/8) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-5. ❗️ Closed issue [#6](https://github.com/lloydlobo/odin-thors-landing/issues/6) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+1. ❗️ Opened issue [#13](https://github.com/lloydlobo/odin-thors-landing/issues/13) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+2. ❗️ Opened issue [#12](https://github.com/lloydlobo/odin-thors-landing/issues/12) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+3. 🎉 Merged PR [#11](https://github.com/lloydlobo/odin-thors-landing/pull/11) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+4. 💪 Opened PR [#11](https://github.com/lloydlobo/odin-thors-landing/pull/11) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+5. 🎉 Merged PR [#10](https://github.com/lloydlobo/odin-thors-landing/pull/10) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
