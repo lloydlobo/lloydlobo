@@ -256,11 +256,11 @@ Markdown     33 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#14](https://github.com/lloydlobo/Portfolio/issues/14) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-2. 🎉 Merged PR [#17](https://github.com/lloydlobo/Portfolio/pull/17) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-3. 💪 Opened PR [#17](https://github.com/lloydlobo/Portfolio/pull/17) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-4. ❗️ Reopened issue [#14](https://github.com/lloydlobo/Portfolio/issues/14) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-5. 🎉 Merged PR [#16](https://github.com/lloydlobo/Portfolio/pull/16) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+1. 🎉 Merged PR [#2](https://github.com/lloydlobo/odin-thors-landing/pull/2) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+2. 💪 Opened PR [#2](https://github.com/lloydlobo/odin-thors-landing/pull/2) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+3. ❗️ Closed issue [#14](https://github.com/lloydlobo/Portfolio/issues/14) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+4. 🎉 Merged PR [#17](https://github.com/lloydlobo/Portfolio/pull/17) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+5. 💪 Opened PR [#17](https://github.com/lloydlobo/Portfolio/pull/17) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
