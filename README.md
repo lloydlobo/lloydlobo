@@ -256,11 +256,11 @@ Markdown     33 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#18](https://github.com/lloydlobo/Portfolio/issues/18) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-2. 🎉 Merged PR [#16](https://github.com/lloydlobo/odin-thors-landing/pull/16) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-3. 💪 Opened PR [#16](https://github.com/lloydlobo/odin-thors-landing/pull/16) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-4. 🎉 Merged PR [#15](https://github.com/lloydlobo/odin-thors-landing/pull/15) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-5. ❗️ Closed issue [#13](https://github.com/lloydlobo/odin-thors-landing/issues/13) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+1. 🗣 Commented on [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+2. ❗️ Closed issue [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+3. ❗️ Opened issue [#18](https://github.com/lloydlobo/Portfolio/issues/18) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+4. 🎉 Merged PR [#16](https://github.com/lloydlobo/odin-thors-landing/pull/16) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+5. 💪 Opened PR [#16](https://github.com/lloydlobo/odin-thors-landing/pull/16) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
