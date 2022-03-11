@@ -256,11 +256,11 @@ JSON         47 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/lloydlobo/odin-thors-landing/pull/18) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-2. 🎉 Merged PR [#17](https://github.com/lloydlobo/odin-thors-landing/pull/17) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-3. 🎉 Merged PR [#20](https://github.com/lloydlobo/odin-thors-landing/pull/20) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-4. 💪 Opened PR [#20](https://github.com/lloydlobo/odin-thors-landing/pull/20) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-5. ❗️ Opened issue [#14](https://github.com/lloydlobo/odin-recipes/issues/14) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+1. ❗️ Closed issue [#19](https://github.com/lloydlobo/odin-thors-landing/issues/19) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+2. 🎉 Merged PR [#18](https://github.com/lloydlobo/odin-thors-landing/pull/18) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+3. 🎉 Merged PR [#17](https://github.com/lloydlobo/odin-thors-landing/pull/17) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+4. 🎉 Merged PR [#20](https://github.com/lloydlobo/odin-thors-landing/pull/20) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+5. 💪 Opened PR [#20](https://github.com/lloydlobo/odin-thors-landing/pull/20) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
