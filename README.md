@@ -256,11 +256,11 @@ JSON         47 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-2. ❗️ Closed issue [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
-3. ❗️ Opened issue [#18](https://github.com/lloydlobo/Portfolio/issues/18) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-4. 🎉 Merged PR [#16](https://github.com/lloydlobo/odin-thors-landing/pull/16) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-5. 💪 Opened PR [#16](https://github.com/lloydlobo/odin-thors-landing/pull/16) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+1. ❗️ Opened issue [#14](https://github.com/lloydlobo/odin-recipes/issues/14) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+2. ❗️ Opened issue [#19](https://github.com/lloydlobo/odin-thors-landing/issues/19) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+3. 🗣 Commented on [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+4. ❗️ Closed issue [#16](https://github.com/lloydlobo/gatsbynetlify/issues/16) in [lloydlobo/gatsbynetlify](https://github.com/lloydlobo/gatsbynetlify)
+5. ❗️ Opened issue [#18](https://github.com/lloydlobo/Portfolio/issues/18) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
