@@ -256,11 +256,11 @@ JSON         47 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#27](https://github.com/lloydlobo/odin-thors-landing/pull/27) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-2. 💪 Opened PR [#27](https://github.com/lloydlobo/odin-thors-landing/pull/27) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-3. 🎉 Merged PR [#26](https://github.com/lloydlobo/odin-thors-landing/pull/26) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-4. 💪 Opened PR [#26](https://github.com/lloydlobo/odin-thors-landing/pull/26) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-5. 🎉 Merged PR [#25](https://github.com/lloydlobo/odin-thors-landing/pull/25) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+1. 💪 Opened PR [#23770](https://github.com/TheOdinProject/curriculum/pull/23770) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+2. 🎉 Merged PR [#27](https://github.com/lloydlobo/odin-thors-landing/pull/27) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+3. 💪 Opened PR [#27](https://github.com/lloydlobo/odin-thors-landing/pull/27) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+4. 🎉 Merged PR [#26](https://github.com/lloydlobo/odin-thors-landing/pull/26) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+5. 💪 Opened PR [#26](https://github.com/lloydlobo/odin-thors-landing/pull/26) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
