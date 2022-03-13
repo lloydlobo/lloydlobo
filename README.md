@@ -256,11 +256,11 @@ JSON         47 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#19](https://github.com/lloydlobo/Portfolio/issues/19) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
-2. ❗️ Opened issue [#28](https://github.com/lloydlobo/odin-thors-landing/issues/28) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-3. 💪 Opened PR [#23770](https://github.com/TheOdinProject/curriculum/pull/23770) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-4. 🎉 Merged PR [#27](https://github.com/lloydlobo/odin-thors-landing/pull/27) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-5. 💪 Opened PR [#27](https://github.com/lloydlobo/odin-thors-landing/pull/27) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+1. 🎉 Merged PR [#1](https://github.com/lloydlobo/nextjs-docs/pull/1) in [lloydlobo/nextjs-docs](https://github.com/lloydlobo/nextjs-docs)
+2. 🎉 Merged PR [#15](https://github.com/lloydlobo/odin-recipes/pull/15) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+3. 💪 Opened PR [#15](https://github.com/lloydlobo/odin-recipes/pull/15) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+4. ❗️ Opened issue [#19](https://github.com/lloydlobo/Portfolio/issues/19) in [lloydlobo/Portfolio](https://github.com/lloydlobo/Portfolio)
+5. ❗️ Opened issue [#28](https://github.com/lloydlobo/odin-thors-landing/issues/28) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
