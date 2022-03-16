@@ -256,11 +256,11 @@ Git          31 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/lloydlobo/DIVIN3D35IGN/pull/1) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
-2. 🎉 Merged PR [#29](https://github.com/lloydlobo/weather-app/pull/29) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-3. ❌ Closed PR [#25](https://github.com/lloydlobo/weather-app/pull/25) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-4. 🎉 Merged PR [#28](https://github.com/lloydlobo/weather-app/pull/28) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-5. 💪 Opened PR [#28](https://github.com/lloydlobo/weather-app/pull/28) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+1. ❗️ Opened issue [#2](https://github.com/lloydlobo/DIVIN3D35IGN/issues/2) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
+2. 🎉 Merged PR [#1](https://github.com/lloydlobo/DIVIN3D35IGN/pull/1) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
+3. 🎉 Merged PR [#29](https://github.com/lloydlobo/weather-app/pull/29) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+4. ❌ Closed PR [#25](https://github.com/lloydlobo/weather-app/pull/25) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+5. 🎉 Merged PR [#28](https://github.com/lloydlobo/weather-app/pull/28) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
