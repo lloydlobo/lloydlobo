@@ -256,11 +256,11 @@ Git          31 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#31](https://github.com/lloydlobo/odin-thors-landing/pull/31) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-2. 💪 Opened PR [#31](https://github.com/lloydlobo/odin-thors-landing/pull/31) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-3. 🎉 Merged PR [#30](https://github.com/lloydlobo/odin-thors-landing/pull/30) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-4. 🎉 Merged PR [#29](https://github.com/lloydlobo/odin-thors-landing/pull/29) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
-5. 💪 Opened PR [#29](https://github.com/lloydlobo/odin-thors-landing/pull/29) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+1. ❌ Closed PR [#25](https://github.com/lloydlobo/weather-app/pull/25) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+2. 🎉 Merged PR [#28](https://github.com/lloydlobo/weather-app/pull/28) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+3. 💪 Opened PR [#28](https://github.com/lloydlobo/weather-app/pull/28) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+4. 🎉 Merged PR [#31](https://github.com/lloydlobo/odin-thors-landing/pull/31) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+5. 💪 Opened PR [#31](https://github.com/lloydlobo/odin-thors-landing/pull/31) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
