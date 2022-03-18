@@ -256,11 +256,11 @@ Git Config   9 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/lloydlobo/fem-tip-calculator-app/pull/1) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
-2. 💪 Opened PR [#23827](https://github.com/TheOdinProject/curriculum/pull/23827) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-3. ❗️ Opened issue [#2](https://github.com/lloydlobo/DIVIN3D35IGN/issues/2) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
-4. 🎉 Merged PR [#1](https://github.com/lloydlobo/DIVIN3D35IGN/pull/1) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
-5. 🎉 Merged PR [#29](https://github.com/lloydlobo/weather-app/pull/29) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+1. 🎉 Merged PR [#2](https://github.com/lloydlobo/fem-tip-calculator-app/pull/2) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+2. 💪 Opened PR [#2](https://github.com/lloydlobo/fem-tip-calculator-app/pull/2) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+3. 🎉 Merged PR [#1](https://github.com/lloydlobo/fem-tip-calculator-app/pull/1) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+4. 💪 Opened PR [#1](https://github.com/lloydlobo/fem-tip-calculator-app/pull/1) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+5. 💪 Opened PR [#23827](https://github.com/TheOdinProject/curriculum/pull/23827) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
