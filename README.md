@@ -256,11 +256,11 @@ Git Config   9 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/lloydlobo/fem-tip-calculator-app/pull/4) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
-2. 🗣 Commented on [#4](https://github.com/lloydlobo/fem-tip-calculator-app/issues/4) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
-3. 💪 Opened PR [#4](https://github.com/lloydlobo/fem-tip-calculator-app/pull/4) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
-4. 🎉 Merged PR [#3](https://github.com/lloydlobo/fem-tip-calculator-app/pull/3) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
-5. 💪 Opened PR [#3](https://github.com/lloydlobo/fem-tip-calculator-app/pull/3) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+1. 💪 Opened PR [#5](https://github.com/lloydlobo/fem-tip-calculator-app/pull/5) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+2. 🎉 Merged PR [#4](https://github.com/lloydlobo/fem-tip-calculator-app/pull/4) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+3. 🗣 Commented on [#4](https://github.com/lloydlobo/fem-tip-calculator-app/issues/4) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+4. 💪 Opened PR [#4](https://github.com/lloydlobo/fem-tip-calculator-app/pull/4) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+5. 🎉 Merged PR [#3](https://github.com/lloydlobo/fem-tip-calculator-app/pull/3) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
