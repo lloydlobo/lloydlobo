@@ -256,11 +256,11 @@ JSON         6 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/lloydlobo/homely-recipes/pull/2) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. 💪 Opened PR [#2](https://github.com/lloydlobo/homely-recipes/pull/2) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 🎉 Merged PR [#1](https://github.com/lloydlobo/homely-recipes/pull/1) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 💪 Opened PR [#1](https://github.com/lloydlobo/homely-recipes/pull/1) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🎉 Merged PR [#7](https://github.com/lloydlobo/fem-tip-calculator-app/pull/7) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
+1. 🎉 Merged PR [#3](https://github.com/lloydlobo/homely-recipes/pull/3) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 🎉 Merged PR [#2](https://github.com/lloydlobo/homely-recipes/pull/2) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 💪 Opened PR [#2](https://github.com/lloydlobo/homely-recipes/pull/2) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 🎉 Merged PR [#1](https://github.com/lloydlobo/homely-recipes/pull/1) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. 💪 Opened PR [#1](https://github.com/lloydlobo/homely-recipes/pull/1) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
