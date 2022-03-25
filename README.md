@@ -256,11 +256,11 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#13](https://github.com/lloydlobo/homely-recipes/pull/13) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. 🎉 Merged PR [#12](https://github.com/lloydlobo/homely-recipes/pull/12) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 💪 Opened PR [#12](https://github.com/lloydlobo/homely-recipes/pull/12) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 🎉 Merged PR [#11](https://github.com/lloydlobo/homely-recipes/pull/11) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🗣 Commented on [#23770](https://github.com/TheOdinProject/curriculum/issues/23770) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+1. 🎉 Merged PR [#13](https://github.com/lloydlobo/homely-recipes/pull/13) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 💪 Opened PR [#13](https://github.com/lloydlobo/homely-recipes/pull/13) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 🎉 Merged PR [#12](https://github.com/lloydlobo/homely-recipes/pull/12) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 💪 Opened PR [#12](https://github.com/lloydlobo/homely-recipes/pull/12) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. 🎉 Merged PR [#11](https://github.com/lloydlobo/homely-recipes/pull/11) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
