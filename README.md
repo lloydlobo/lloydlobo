@@ -480,11 +480,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23827](https://github.com/TheOdinProject/curriculum/issues/23827) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-2. 🎉 Merged PR [#1](https://github.com/lloydlobo/gatsby-starter-minimal-blog/pull/1) in [lloydlobo/gatsby-starter-minimal-blog](https://github.com/lloydlobo/gatsby-starter-minimal-blog)
-3. 🎉 Merged PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 💪 Opened PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. ❗️ Opened issue [#22](https://github.com/lloydlobo/homely-recipes/issues/22) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 🎉 Merged PR [#24](https://github.com/lloydlobo/homely-recipes/pull/24) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 💪 Opened PR [#24](https://github.com/lloydlobo/homely-recipes/pull/24) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 🗣 Commented on [#23827](https://github.com/TheOdinProject/curriculum/issues/23827) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+4. 🎉 Merged PR [#1](https://github.com/lloydlobo/gatsby-starter-minimal-blog/pull/1) in [lloydlobo/gatsby-starter-minimal-blog](https://github.com/lloydlobo/gatsby-starter-minimal-blog)
+5. 🎉 Merged PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
