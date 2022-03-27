@@ -207,6 +207,15 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!-- TOOLS ==> ALL LANGUAGES, FRAMEWORKS&LIBRARIES, DATABASE&HOSTING, SOFTWARES&TOOLS -->
 
+## 🏗️ Working on:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=odin-recipes)](https://github.com/lloydlobo/odin-recipes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=homely-recipes)](https://github.com/lloydlobo/homely-recipes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=weather-app)](https://github.com/lloydlobo/weather-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=odin-thors-landing)](https://github.com/lloydlobo/odin-thors-landing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=fem-tip-calculator-app)](https://github.com/lloydlobo/fem-tip-calculator-app)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=weather-app)](https://github.com/lloydlobo/weather-app) -->
+
 ## 🛠️ My favorite tools ### 👨‍💻 Programming languages
 
 <p>
