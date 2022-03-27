@@ -256,11 +256,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#17](https://github.com/lloydlobo/homely-recipes/issues/17) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. ❗️ Opened issue [#16](https://github.com/lloydlobo/homely-recipes/issues/16) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 🎉 Merged PR [#15](https://github.com/lloydlobo/homely-recipes/pull/15) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 💪 Opened PR [#15](https://github.com/lloydlobo/homely-recipes/pull/15) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. ❌ Closed PR [#14](https://github.com/lloydlobo/homely-recipes/pull/14) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. ❗️ Opened issue [#22](https://github.com/lloydlobo/homely-recipes/issues/22) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. ❗️ Opened issue [#21](https://github.com/lloydlobo/homely-recipes/issues/21) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. ❗️ Opened issue [#20](https://github.com/lloydlobo/homely-recipes/issues/20) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. ❗️ Opened issue [#19](https://github.com/lloydlobo/homely-recipes/issues/19) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. ❗️ Opened issue [#18](https://github.com/lloydlobo/homely-recipes/issues/18) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 <!--    </details> -->
