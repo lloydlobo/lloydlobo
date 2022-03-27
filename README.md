@@ -462,11 +462,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. 💪 Opened PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. ❗️ Opened issue [#22](https://github.com/lloydlobo/homely-recipes/issues/22) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. ❗️ Opened issue [#21](https://github.com/lloydlobo/homely-recipes/issues/21) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. ❗️ Opened issue [#20](https://github.com/lloydlobo/homely-recipes/issues/20) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 🎉 Merged PR [#1](https://github.com/lloydlobo/gatsby-starter-minimal-blog/pull/1) in [lloydlobo/gatsby-starter-minimal-blog](https://github.com/lloydlobo/gatsby-starter-minimal-blog)
+2. 🎉 Merged PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 💪 Opened PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. ❗️ Opened issue [#22](https://github.com/lloydlobo/homely-recipes/issues/22) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. ❗️ Opened issue [#21](https://github.com/lloydlobo/homely-recipes/issues/21) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
