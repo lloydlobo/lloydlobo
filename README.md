@@ -209,14 +209,23 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🏗️ Working on:
 
+| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	|
+|---	|---	|---	|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=odin-recipes)](https://github.com/lloydlobo/odin-recipes) 	| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=homely-recipes)](https://github.com/lloydlobo/homely-recipes) 	| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=weather-app)](https://github.com/lloydlobo/weather-app) 	|
+| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=odin-thors-landing)](https://github.com/lloydlobo/odin-thors-landing) 	| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=fem-tip-calculator-app)](https://github.com/lloydlobo/fem-tip-calculator-app) 	| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=Portfolio)](https://github.com/lloydlobo/Portfolio) 	|
+
+<!-- ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=odin-recipes)](https://github.com/lloydlobo/odin-recipes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=homely-recipes)](https://github.com/lloydlobo/homely-recipes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=weather-app)](https://github.com/lloydlobo/weather-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=odin-thors-landing)](https://github.com/lloydlobo/odin-thors-landing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=fem-tip-calculator-app)](https://github.com/lloydlobo/fem-tip-calculator-app)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=weather-app)](https://github.com/lloydlobo/weather-app) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=weather-app)](https://github.com/lloydlobo/weather-app)
+ -->
+## 🛠️ My favorite tools 
 
-## 🛠️ My favorite tools ### 👨‍💻 Programming languages
+### 👨‍💻 Programming languages
 
 <p>
   <!--     <a href="https://github.com/search?q=user%3Alloydlobo+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a> -->
