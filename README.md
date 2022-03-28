@@ -209,7 +209,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🏗️ Working on:
 
-| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	|
+| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/apps/web-app/weather-app.gif) 	|
 |---	|---	|---	|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=odin-recipes)](https://github.com/lloydlobo/odin-recipes) 	| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=homely-recipes)](https://github.com/lloydlobo/homely-recipes) 	| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lloydlobo&repo=weather-app)](https://github.com/lloydlobo/weather-app) 	|
 | ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	| ![odin-recipes](https://github.com/lloydlobo/lloydlobo/blob/main/assets/projects/web-development/odin-recipes-sm.gif) 	|
