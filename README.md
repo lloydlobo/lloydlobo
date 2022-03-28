@@ -480,11 +480,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#30](https://github.com/lloydlobo/weather-app/pull/30) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-2. 🎉 Merged PR [#2](https://github.com/lloydlobo/lloydlobo/pull/2) in [lloydlobo/lloydlobo](https://github.com/lloydlobo/lloydlobo)
-3. 🎉 Merged PR [#25](https://github.com/lloydlobo/homely-recipes/pull/25) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 💪 Opened PR [#25](https://github.com/lloydlobo/homely-recipes/pull/25) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🎉 Merged PR [#24](https://github.com/lloydlobo/homely-recipes/pull/24) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. ❗️ Opened issue [#26](https://github.com/lloydlobo/homely-recipes/issues/26) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 🎉 Merged PR [#31](https://github.com/lloydlobo/weather-app/pull/31) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+3. 🎉 Merged PR [#30](https://github.com/lloydlobo/weather-app/pull/30) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+4. 🎉 Merged PR [#2](https://github.com/lloydlobo/lloydlobo/pull/2) in [lloydlobo/lloydlobo](https://github.com/lloydlobo/lloydlobo)
+5. 🎉 Merged PR [#25](https://github.com/lloydlobo/homely-recipes/pull/25) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
