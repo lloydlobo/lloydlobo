@@ -175,11 +175,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-CSS          16 hrs 16 mins  ████████████████░░░░░░░░░   64.56 %
-HTML         6 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-JavaScript   1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+CSS          16 hrs 13 mins  ████████████████░░░░░░░░░   64.34 %
+HTML         7 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.86 %
+JavaScript   1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
@@ -480,11 +480,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/lloydlobo/homely-recipes/pull/24) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. 💪 Opened PR [#24](https://github.com/lloydlobo/homely-recipes/pull/24) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 🗣 Commented on [#23827](https://github.com/TheOdinProject/curriculum/issues/23827) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-4. 🎉 Merged PR [#1](https://github.com/lloydlobo/gatsby-starter-minimal-blog/pull/1) in [lloydlobo/gatsby-starter-minimal-blog](https://github.com/lloydlobo/gatsby-starter-minimal-blog)
-5. 🎉 Merged PR [#23](https://github.com/lloydlobo/homely-recipes/pull/23) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 🎉 Merged PR [#25](https://github.com/lloydlobo/homely-recipes/pull/25) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 💪 Opened PR [#25](https://github.com/lloydlobo/homely-recipes/pull/25) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 🎉 Merged PR [#24](https://github.com/lloydlobo/homely-recipes/pull/24) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 💪 Opened PR [#24](https://github.com/lloydlobo/homely-recipes/pull/24) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. 🗣 Commented on [#23827](https://github.com/TheOdinProject/curriculum/issues/23827) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
