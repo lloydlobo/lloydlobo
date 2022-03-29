@@ -480,11 +480,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/likeaweb/octavia-recipes/pull/1) in [likeaweb/octavia-recipes](https://github.com/likeaweb/octavia-recipes)
-2. 💪 Opened PR [#1](https://github.com/likeaweb/octavia-recipes/pull/1) in [likeaweb/octavia-recipes](https://github.com/likeaweb/octavia-recipes)
-3. 🎉 Merged PR [#27](https://github.com/lloydlobo/homely-recipes/pull/27) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 💪 Opened PR [#27](https://github.com/lloydlobo/homely-recipes/pull/27) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. ❗️ Opened issue [#26](https://github.com/lloydlobo/homely-recipes/issues/26) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 🎉 Merged PR [#28](https://github.com/lloydlobo/homely-recipes/pull/28) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 🎉 Merged PR [#29](https://github.com/lloydlobo/homely-recipes/pull/29) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 🎉 Merged PR [#30](https://github.com/lloydlobo/homely-recipes/pull/30) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 🎉 Merged PR [#31](https://github.com/lloydlobo/homely-recipes/pull/31) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. 🎉 Merged PR [#33](https://github.com/lloydlobo/homely-recipes/pull/33) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
