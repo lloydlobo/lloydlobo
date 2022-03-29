@@ -533,6 +533,12 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lloydlobo's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lloydlobo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
+
+## Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 ## 👏&nbsp;Credits :
 
 <details>
