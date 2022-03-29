@@ -480,11 +480,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#28](https://github.com/lloydlobo/homely-recipes/pull/28) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. 🎉 Merged PR [#29](https://github.com/lloydlobo/homely-recipes/pull/29) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 🎉 Merged PR [#30](https://github.com/lloydlobo/homely-recipes/pull/30) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 🎉 Merged PR [#31](https://github.com/lloydlobo/homely-recipes/pull/31) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🎉 Merged PR [#33](https://github.com/lloydlobo/homely-recipes/pull/33) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 🎉 Merged PR [#1](https://github.com/lloydlobo/styleguide-homely-recipes/pull/1) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
+2. 💪 Opened PR [#1](https://github.com/lloydlobo/styleguide-homely-recipes/pull/1) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
+3. 🎉 Merged PR [#28](https://github.com/lloydlobo/homely-recipes/pull/28) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 🎉 Merged PR [#29](https://github.com/lloydlobo/homely-recipes/pull/29) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. 🎉 Merged PR [#30](https://github.com/lloydlobo/homely-recipes/pull/30) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
