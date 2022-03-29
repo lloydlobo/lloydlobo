@@ -1,0 +1,29 @@
+name: Synchronize Todoist
+on:
+  schedule:
+   - cron: "*/30 * * * *"
+  workflow_dispatch:
+    
+
+jobs:
+  sync_issues:
+    name: Synchronize // ${{ matrix.name }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - name: Issues
+            uses: cobraz/todoist-action@v1
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            todoist-token: ${{ secrets.TODOIST_TOKEN }}
+            query: updated:>2021-04-01 archived:false sort:updated-desc assignee:lloydlobo -label:backlog
+            key: generic
+          - name: Pull Requests
+            uses: cobraz/todoist-action@v1
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            todoist-token: ${{ secrets.TODOIST_TOKEN }}
+            query: is:pr updated:>2021-04-01 archived:false sort:updated-desc assignee:lloydlobo review-requested:lloydlobo -label:backlog
+            key: pr
+      fail-fast: false
+    steps:
+      - uses: actions/checkout@v2
