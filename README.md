@@ -480,11 +480,11 @@ Git Config   19 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#44](https://github.com/lloydlobo/homely-recipes/pull/44) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. ❌ Closed PR [#41](https://github.com/lloydlobo/homely-recipes/pull/41) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. ❌ Closed PR [#42](https://github.com/lloydlobo/homely-recipes/pull/42) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 🎉 Merged PR [#43](https://github.com/lloydlobo/homely-recipes/pull/43) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🎉 Merged PR [#40](https://github.com/lloydlobo/homely-recipes/pull/40) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 💪 Opened PR [#45](https://github.com/lloydlobo/homely-recipes/pull/45) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 🎉 Merged PR [#44](https://github.com/lloydlobo/homely-recipes/pull/44) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. ❌ Closed PR [#41](https://github.com/lloydlobo/homely-recipes/pull/41) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. ❌ Closed PR [#42](https://github.com/lloydlobo/homely-recipes/pull/42) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. 🎉 Merged PR [#43](https://github.com/lloydlobo/homely-recipes/pull/43) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
