@@ -480,11 +480,11 @@ Git Config   18 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/1) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
-2. 💪 Opened PR [#1](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/1) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
-3. 🎉 Merged PR [#45](https://github.com/lloydlobo/homely-recipes/pull/45) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. ❗️ Closed issue [#26](https://github.com/lloydlobo/homely-recipes/issues/26) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 💪 Opened PR [#45](https://github.com/lloydlobo/homely-recipes/pull/45) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 🎉 Merged PR [#2](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/2) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
+2. 💪 Opened PR [#2](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/2) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
+3. 🎉 Merged PR [#46](https://github.com/lloydlobo/homely-recipes/pull/46) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 🎉 Merged PR [#1](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/1) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
+5. 💪 Opened PR [#1](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/1) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
