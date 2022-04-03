@@ -480,11 +480,11 @@ Git Config   15 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/lloydlobo/DIVIN3D35IGN/pull/4) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
-2. 🎉 Merged PR [#2](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/2) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
-3. 💪 Opened PR [#2](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/2) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
-4. 🎉 Merged PR [#46](https://github.com/lloydlobo/homely-recipes/pull/46) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🎉 Merged PR [#1](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/1) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
+1. 🎉 Merged PR [#47](https://github.com/lloydlobo/homely-recipes/pull/47) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 🎉 Merged PR [#48](https://github.com/lloydlobo/homely-recipes/pull/48) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 💪 Opened PR [#48](https://github.com/lloydlobo/homely-recipes/pull/48) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 🎉 Merged PR [#4](https://github.com/lloydlobo/DIVIN3D35IGN/pull/4) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
+5. 🎉 Merged PR [#2](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame/pull/2) in [Fundamentals-Playground/MDN-JS-numberGuessingGame](https://github.com/Fundamentals-Playground/MDN-JS-numberGuessingGame)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
