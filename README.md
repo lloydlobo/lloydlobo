@@ -478,11 +478,11 @@ Other        2 hrs 7 mins    █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#62](https://github.com/lloydlobo/homely-recipes/pull/62) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. 🎉 Merged PR [#61](https://github.com/lloydlobo/homely-recipes/pull/61) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 💪 Opened PR [#61](https://github.com/lloydlobo/homely-recipes/pull/61) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 🎉 Merged PR [#5](https://github.com/lloydlobo/DIVIN3D35IGN/pull/5) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
-5. 🎉 Merged PR [#1](https://github.com/lloydlobo/11ty-blog/pull/1) in [lloydlobo/11ty-blog](https://github.com/lloydlobo/11ty-blog)
+1. 🎉 Merged PR [#62](https://github.com/lloydlobo/homely-recipes/pull/62) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 💪 Opened PR [#62](https://github.com/lloydlobo/homely-recipes/pull/62) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. 🎉 Merged PR [#61](https://github.com/lloydlobo/homely-recipes/pull/61) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 💪 Opened PR [#61](https://github.com/lloydlobo/homely-recipes/pull/61) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. 🎉 Merged PR [#5](https://github.com/lloydlobo/DIVIN3D35IGN/pull/5) in [lloydlobo/DIVIN3D35IGN](https://github.com/lloydlobo/DIVIN3D35IGN)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
