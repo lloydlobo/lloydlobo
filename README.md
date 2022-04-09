@@ -175,10 +175,10 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   17 hrs 53 mins  █████████▒░░░░░░░░░░░░░░░   37.48 %
-HTML         12 hrs 30 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-CSS          12 hrs 2 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
-Other        2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+CSS          11 hrs 28 mins  ███████▒░░░░░░░░░░░░░░░░░   28.83 %
+JavaScript   11 hrs 23 mins  ███████░░░░░░░░░░░░░░░░░░   28.61 %
+HTML         11 hrs 1 min    ███████░░░░░░░░░░░░░░░░░░   27.68 %
+Other        2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
