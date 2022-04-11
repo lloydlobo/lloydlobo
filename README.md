@@ -171,7 +171,7 @@ somebody out there._
 </p>
 
 ## 📊 &nbsp;This week, I spent my time on :
-
+[![wakatime](https://wakatime.com/badge/user/906b6002-20d3-446f-8f9c-4dd4d504fa63.svg)](https://wakatime.com/@906b6002-20d3-446f-8f9c-4dd4d504fa63)
 <!--START_SECTION:waka-->
 
 ```text
