@@ -171,7 +171,7 @@ somebody out there._
 </p>
 
 ## 📊 &nbsp;This week, I spent my time on :
-[![wakatime](https://wakatime.com/badge/user/906b6002-20d3-446f-8f9c-4dd4d504fa63.svg)](https://wakatime.com/@906b6002-20d3-446f-8f9c-4dd4d504fa63)
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -184,7 +184,9 @@ Other        2 hrs 27 mins   █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<sub>Uses [WakaTime](https://wakatime.com/@lloydlobo) integrated with VS Code</sub>
+<!-- <sub>Uses [WakaTime](https://wakatime.com/@lloydlobo) integrated with VS Code</sub>  -->
+[![wakatime](https://wakatime.com/badge/user/906b6002-20d3-446f-8f9c-4dd4d504fa63.svg)](https://wakatime.com/@906b6002-20d3-446f-8f9c-4dd4d504fa63)   
+<sub>SINCE JAN 25 2022</sub>
 
 <!-- <img src="https://hookrace.net/time.gif"> -->
 
