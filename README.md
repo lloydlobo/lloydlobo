@@ -481,11 +481,11 @@ Other        2 hrs 27 mins   █▓░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/1) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-2. 🗣 Commented on [#23917](https://github.com/TheOdinProject/curriculum/issues/23917) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-3. ❗️ Opened issue [#69](https://github.com/lloydlobo/homely-recipes/issues/69) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. ❗️ Closed issue [#34](https://github.com/lloydlobo/homely-recipes/issues/34) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🎉 Merged PR [#8](https://github.com/lloydlobo/styleguide-homely-recipes/pull/8) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
+1. ❗️ Opened issue [#9](https://github.com/lloydlobo/styleguide-homely-recipes/issues/9) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
+2. ❗️ Opened issue [#70](https://github.com/lloydlobo/homely-recipes/issues/70) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. ❗️ Opened issue [#33](https://github.com/lloydlobo/odin-thors-landing/issues/33) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+4. ❗️ Opened issue [#2](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/2) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+5. ❗️ Opened issue [#17](https://github.com/lloydlobo/odin-recipes/issues/17) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
