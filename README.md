@@ -480,11 +480,11 @@ Other        2 hrs 27 mins   █▓░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#9](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/9) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-2. 💪 Opened PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/8) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-3. ❗️ Opened issue [#7](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/7) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-4. 🎉 Merged PR [#6](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/6) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-5. 💪 Opened PR [#6](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/6) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+1. 🎉 Merged PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/8) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+2. ❗️ Opened issue [#9](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/9) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+3. 💪 Opened PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/8) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+4. ❗️ Opened issue [#7](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/7) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+5. 🎉 Merged PR [#6](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/6) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
