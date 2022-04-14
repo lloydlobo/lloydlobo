@@ -482,11 +482,11 @@ Other        33 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#11](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/11) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-2. 💪 Opened PR [#24022](https://github.com/TheOdinProject/curriculum/pull/24022) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-3. 🎉 Merged PR [#10](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/10) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-4. 🗣 Commented on [#70](https://github.com/lloydlobo/homely-recipes/issues/70) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. 🎉 Merged PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/8) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+1. ❗️ Closed issue [#14](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/14) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+2. 🎉 Merged PR [#15](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/15) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+3. 💪 Opened PR [#15](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/15) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+4. ❗️ Opened issue [#14](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/14) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+5. 🎉 Merged PR [#13](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/13) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
