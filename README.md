@@ -175,12 +175,12 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   31 hrs 55 mins  █████████████░░░░░░░░░░░░   52.11 %
-CSS          10 hrs 36 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-Markdown     8 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-HTML         8 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-JSON         1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Git Config   17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript   31 hrs 5 mins   ██████████████░░░░░░░░░░░   55.63 %
+CSS          10 hrs 28 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+HTML         8 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Markdown     3 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JSON         59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Git Config   17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
