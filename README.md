@@ -482,11 +482,11 @@ JSON         46 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/1) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
-2. 🎉 Merged PR [#2](https://github.com/lloydlobo/nextjs-docs/pull/2) in [lloydlobo/nextjs-docs](https://github.com/lloydlobo/nextjs-docs)
-3. 🎉 Merged PR [#9](https://github.com/lloydlobo/fem-tip-calculator-app/pull/9) in [lloydlobo/fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app)
-4. 🎉 Merged PR [#2](https://github.com/lloydlobo/11ty-blog/pull/2) in [lloydlobo/11ty-blog](https://github.com/lloydlobo/11ty-blog)
-5. 🎉 Merged PR [#18](https://github.com/lloydlobo/odin-recipes/pull/18) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+1. ❗️ Closed issue [#7](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/7) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+2. 🎉 Merged PR [#35](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/35) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+3. ❗️ Closed issue [#34](https://github.com/lloydlobo/odin-rock-paper-scissors/issues/34) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+4. 💪 Opened PR [#35](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/35) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+5. 🎉 Merged PR [#1](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/1) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
