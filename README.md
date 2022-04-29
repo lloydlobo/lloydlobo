@@ -482,11 +482,11 @@ CSS          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#80](https://github.com/lloydlobo/homely-recipes/pull/80) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-2. 🎉 Merged PR [#76](https://github.com/lloydlobo/homely-recipes/pull/76) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 💪 Opened PR [#76](https://github.com/lloydlobo/homely-recipes/pull/76) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 🎉 Merged PR [#40](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/40) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
-5. 💪 Opened PR [#40](https://github.com/lloydlobo/odin-rock-paper-scissors/pull/40) in [lloydlobo/odin-rock-paper-scissors](https://github.com/lloydlobo/odin-rock-paper-scissors)
+1. ❌ Closed PR [#84](https://github.com/lloydlobo/homely-recipes/pull/84) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. ❌ Closed PR [#83](https://github.com/lloydlobo/homely-recipes/pull/83) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+3. ❌ Closed PR [#82](https://github.com/lloydlobo/homely-recipes/pull/82) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. ❌ Closed PR [#81](https://github.com/lloydlobo/homely-recipes/pull/81) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. ❌ Closed PR [#79](https://github.com/lloydlobo/homely-recipes/pull/79) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
