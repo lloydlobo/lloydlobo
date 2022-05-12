@@ -482,11 +482,11 @@ Git Config   11 mins         ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/lloydlobo/scripting-js/pull/1) in [lloydlobo/scripting-js](https://github.com/lloydlobo/scripting-js)
-2. 💪 Opened PR [#85](https://github.com/lloydlobo/homely-recipes/pull/85) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-3. 🎉 Merged PR [#80](https://github.com/lloydlobo/homely-recipes/pull/80) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. ❌ Closed PR [#84](https://github.com/lloydlobo/homely-recipes/pull/84) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-5. ❌ Closed PR [#83](https://github.com/lloydlobo/homely-recipes/pull/83) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 🗣 Commented on [#24022](https://github.com/TheOdinProject/curriculum/issues/24022) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+2. ❌ Closed PR [#1](https://github.com/lloydlobo/scripting-js/pull/1) in [lloydlobo/scripting-js](https://github.com/lloydlobo/scripting-js)
+3. 💪 Opened PR [#85](https://github.com/lloydlobo/homely-recipes/pull/85) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+4. 🎉 Merged PR [#80](https://github.com/lloydlobo/homely-recipes/pull/80) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+5. ❌ Closed PR [#84](https://github.com/lloydlobo/homely-recipes/pull/84) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
