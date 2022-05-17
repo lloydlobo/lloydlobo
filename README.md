@@ -482,10 +482,10 @@ Svelte       30 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/likeaweb/octavia-recipes/pull/2) in [likeaweb/octavia-recipes](https://github.com/likeaweb/octavia-recipes)
-2. 💪 Opened PR [#2](https://github.com/likeaweb/octavia-recipes/pull/2) in [likeaweb/octavia-recipes](https://github.com/likeaweb/octavia-recipes)
-3. 💪 Opened PR [#90](https://github.com/lloydlobo/homely-recipes/pull/90) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
-4. 🗣 Commented on [#24022](https://github.com/TheOdinProject/curriculum/issues/24022) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+1. ❌ Closed PR [#90](https://github.com/lloydlobo/homely-recipes/pull/90) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+2. 🎉 Merged PR [#2](https://github.com/likeaweb/octavia-recipes/pull/2) in [likeaweb/octavia-recipes](https://github.com/likeaweb/octavia-recipes)
+3. 💪 Opened PR [#2](https://github.com/likeaweb/octavia-recipes/pull/2) in [likeaweb/octavia-recipes](https://github.com/likeaweb/octavia-recipes)
+4. 💪 Opened PR [#90](https://github.com/lloydlobo/homely-recipes/pull/90) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
 5. 🗣 Commented on [#24022](https://github.com/TheOdinProject/curriculum/issues/24022) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
    <!--END_SECTION:activity-->
 
