@@ -480,11 +480,11 @@ Other        1 hr 12 mins    ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/lloydlobo/mononom-web-apps/pull/4) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-2. 💪 Opened PR [#4](https://github.com/lloydlobo/mononom-web-apps/pull/4) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-3. 🎉 Merged PR [#3](https://github.com/lloydlobo/mononom-web-apps/pull/3) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-4. 💪 Opened PR [#3](https://github.com/lloydlobo/mononom-web-apps/pull/3) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-5. 💪 Opened PR [#92](https://github.com/lloydlobo/homely-recipes/pull/92) in [lloydlobo/homely-recipes](https://github.com/lloydlobo/homely-recipes)
+1. 💪 Opened PR [#5](https://github.com/lloydlobo/mononom-web-apps/pull/5) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+2. 🎉 Merged PR [#4](https://github.com/lloydlobo/mononom-web-apps/pull/4) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+3. 💪 Opened PR [#4](https://github.com/lloydlobo/mononom-web-apps/pull/4) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+4. 🎉 Merged PR [#3](https://github.com/lloydlobo/mononom-web-apps/pull/3) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+5. 💪 Opened PR [#3](https://github.com/lloydlobo/mononom-web-apps/pull/3) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
