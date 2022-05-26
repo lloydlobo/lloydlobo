@@ -482,11 +482,11 @@ CSS          11 mins         ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12](https://github.com/lloydlobo/mononom-web-apps/pull/12) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-2. 🎉 Merged PR [#11](https://github.com/lloydlobo/mononom-web-apps/pull/11) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-3. 💪 Opened PR [#11](https://github.com/lloydlobo/mononom-web-apps/pull/11) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-4. 🎉 Merged PR [#10](https://github.com/lloydlobo/mononom-web-apps/pull/10) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
-5. 💪 Opened PR [#10](https://github.com/lloydlobo/mononom-web-apps/pull/10) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+1. 🎉 Merged PR [#12](https://github.com/lloydlobo/mononom-web-apps/pull/12) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+2. 💪 Opened PR [#12](https://github.com/lloydlobo/mononom-web-apps/pull/12) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+3. 🎉 Merged PR [#11](https://github.com/lloydlobo/mononom-web-apps/pull/11) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+4. 💪 Opened PR [#11](https://github.com/lloydlobo/mononom-web-apps/pull/11) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
+5. 🎉 Merged PR [#10](https://github.com/lloydlobo/mononom-web-apps/pull/10) in [lloydlobo/mononom-web-apps](https://github.com/lloydlobo/mononom-web-apps)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
