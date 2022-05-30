@@ -482,11 +482,11 @@ Other        34 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/lloydlobo/mononom-rust/pull/3) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
-2. 💪 Opened PR [#3](https://github.com/lloydlobo/mononom-rust/pull/3) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
-3. 🎉 Merged PR [#2](https://github.com/lloydlobo/mononom-rust/pull/2) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
-4. 💪 Opened PR [#2](https://github.com/lloydlobo/mononom-rust/pull/2) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
-5. 🎉 Merged PR [#1](https://github.com/lloydlobo/mononom-top/pull/1) in [lloydlobo/mononom-top](https://github.com/lloydlobo/mononom-top)
+1. 🎉 Merged PR [#4](https://github.com/lloydlobo/mononom-rust/pull/4) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
+2. 🎉 Merged PR [#3](https://github.com/lloydlobo/mononom-rust/pull/3) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
+3. 💪 Opened PR [#3](https://github.com/lloydlobo/mononom-rust/pull/3) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
+4. 🎉 Merged PR [#2](https://github.com/lloydlobo/mononom-rust/pull/2) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
+5. 💪 Opened PR [#2](https://github.com/lloydlobo/mononom-rust/pull/2) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
