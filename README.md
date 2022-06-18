@@ -482,9 +482,9 @@ Markdown     40 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/lloydlobo/etcher-sketcher/pull/1) in [lloydlobo/etcher-sketcher](https://github.com/lloydlobo/etcher-sketcher)
-2. 💪 Opened PR [#17](https://github.com/lloydlobo/styleguide-homely-recipes/pull/17) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
-3. 💪 Opened PR [#1](https://github.com/lloydlobo/geomeasure/pull/1) in [lloydlobo/geomeasure](https://github.com/lloydlobo/geomeasure)
+1. 🎉 Merged PR [#2](https://github.com/lloydlobo/etcher-sketcher/pull/2) in [lloydlobo/etcher-sketcher](https://github.com/lloydlobo/etcher-sketcher)
+2. 💪 Opened PR [#2](https://github.com/lloydlobo/etcher-sketcher/pull/2) in [lloydlobo/etcher-sketcher](https://github.com/lloydlobo/etcher-sketcher)
+3. 🎉 Merged PR [#1](https://github.com/lloydlobo/etcher-sketcher/pull/1) in [lloydlobo/etcher-sketcher](https://github.com/lloydlobo/etcher-sketcher)
 4. 🎉 Merged PR [#6](https://github.com/lloydlobo/mononom-rust/pull/6) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
 5. 💪 Opened PR [#6](https://github.com/lloydlobo/mononom-rust/pull/6) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
    <!--END_SECTION:activity-->
