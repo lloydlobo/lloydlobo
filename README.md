@@ -175,12 +175,12 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   18 hrs 38 mins  ████████░░░░░░░░░░░░░░░░░   32.00 %
-SCSS         10 hrs 32 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Svelte       7 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Rust         6 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-HTML         5 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-JavaScript   3 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Svelte       15 hrs 52 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+TypeScript   12 hrs 29 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+SCSS         10 hrs 32 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Rust         5 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+HTML         5 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+JavaScript   3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
 ```
 
 <!--END_SECTION:waka-->
