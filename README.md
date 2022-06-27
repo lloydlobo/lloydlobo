@@ -482,7 +482,7 @@ JSON         1 hr 1 min      ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/lloydlobo/etcher-sketcher/pull/2) in [lloydlobo/etcher-sketcher](https://github.com/lloydlobo/etcher-sketcher)
+1. 🎉 Merged PR [#1](https://github.com/lloydlobo/progress/pull/1) in [lloydlobo/progress](https://github.com/lloydlobo/progress)
 2. 💪 Opened PR [#2](https://github.com/lloydlobo/etcher-sketcher/pull/2) in [lloydlobo/etcher-sketcher](https://github.com/lloydlobo/etcher-sketcher)
 3. 🎉 Merged PR [#1](https://github.com/lloydlobo/etcher-sketcher/pull/1) in [lloydlobo/etcher-sketcher](https://github.com/lloydlobo/etcher-sketcher)
 4. 🎉 Merged PR [#6](https://github.com/lloydlobo/mononom-rust/pull/6) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
