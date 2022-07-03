@@ -482,11 +482,11 @@ HTML         40 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/lloydlobo/quickpath/pull/1) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
-2. 💪 Opened PR [#1](https://github.com/lloydlobo/quickpath/pull/1) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
-3. 🎉 Merged PR [#1](https://github.com/lloydlobo/progress/pull/1) in [lloydlobo/progress](https://github.com/lloydlobo/progress)
-4. 🎉 Merged PR [#6](https://github.com/lloydlobo/mononom-rust/pull/6) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
-5. 💪 Opened PR [#6](https://github.com/lloydlobo/mononom-rust/pull/6) in [lloydlobo/mononom-rust](https://github.com/lloydlobo/mononom-rust)
+1. 🎉 Merged PR [#2](https://github.com/lloydlobo/quickpath/pull/2) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
+2. 💪 Opened PR [#2](https://github.com/lloydlobo/quickpath/pull/2) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
+3. 🎉 Merged PR [#1](https://github.com/lloydlobo/quickpath/pull/1) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
+4. 💪 Opened PR [#1](https://github.com/lloydlobo/quickpath/pull/1) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
+5. 🎉 Merged PR [#1](https://github.com/lloydlobo/progress/pull/1) in [lloydlobo/progress](https://github.com/lloydlobo/progress)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
