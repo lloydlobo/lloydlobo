@@ -482,11 +482,11 @@ JSON         37 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/lloydlobo/quickpath/pull/3) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
-2. 💪 Opened PR [#3](https://github.com/lloydlobo/quickpath/pull/3) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
-3. 🎉 Merged PR [#2](https://github.com/lloydlobo/quickpath/pull/2) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
-4. 💪 Opened PR [#2](https://github.com/lloydlobo/quickpath/pull/2) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
-5. 🎉 Merged PR [#1](https://github.com/lloydlobo/quickpath/pull/1) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
+1. ❗️ Closed issue [#17](https://github.com/lloydlobo/odin-recipes/issues/17) in [lloydlobo/odin-recipes](https://github.com/lloydlobo/odin-recipes)
+2. ❗️ Closed issue [#33](https://github.com/lloydlobo/odin-thors-landing/issues/33) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+3. ❗️ Closed issue [#33](https://github.com/lloydlobo/odin-thors-landing/issues/33) in [lloydlobo/odin-thors-landing](https://github.com/lloydlobo/odin-thors-landing)
+4. 🎉 Merged PR [#3](https://github.com/lloydlobo/quickpath/pull/3) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
+5. 💪 Opened PR [#3](https://github.com/lloydlobo/quickpath/pull/3) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
