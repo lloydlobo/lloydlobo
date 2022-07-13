@@ -482,10 +482,10 @@ JSON         2 hrs 3 mins    █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/lloydlobo/calcyoulater/pull/2) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
-2. 🎉 Merged PR [#1](https://github.com/lloydlobo/calcyoulater/pull/1) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
-3. 💪 Opened PR [#1](https://github.com/lloydlobo/calcyoulater/pull/1) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
-4. 🎉 Merged PR [#3](https://github.com/lloydlobo/quickpath/pull/3) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
+1. 🎉 Merged PR [#2](https://github.com/lloydlobo/calcyoulater/pull/2) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
+2. 💪 Opened PR [#2](https://github.com/lloydlobo/calcyoulater/pull/2) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
+3. 🎉 Merged PR [#1](https://github.com/lloydlobo/calcyoulater/pull/1) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
+4. 💪 Opened PR [#1](https://github.com/lloydlobo/calcyoulater/pull/1) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
 5. 💪 Opened PR [#3](https://github.com/lloydlobo/quickpath/pull/3) in [lloydlobo/quickpath](https://github.com/lloydlobo/quickpath)
    <!--END_SECTION:activity-->
 
