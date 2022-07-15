@@ -482,11 +482,11 @@ JSON         1 hr 18 mins    ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/lloydlobo/calcyoulater/pull/3) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
-2. 💪 Opened PR [#3](https://github.com/lloydlobo/calcyoulater/pull/3) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
-3. 🎉 Merged PR [#2](https://github.com/lloydlobo/calcyoulater/pull/2) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
-4. 💪 Opened PR [#2](https://github.com/lloydlobo/calcyoulater/pull/2) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
-5. 🎉 Merged PR [#1](https://github.com/lloydlobo/calcyoulater/pull/1) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
+1. 🎉 Merged PR [#2](https://github.com/lloydlobo/progress/pull/2) in [lloydlobo/progress](https://github.com/lloydlobo/progress)
+2. 💪 Opened PR [#2](https://github.com/lloydlobo/progress/pull/2) in [lloydlobo/progress](https://github.com/lloydlobo/progress)
+3. 🎉 Merged PR [#3](https://github.com/lloydlobo/calcyoulater/pull/3) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
+4. 💪 Opened PR [#3](https://github.com/lloydlobo/calcyoulater/pull/3) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
+5. 🎉 Merged PR [#2](https://github.com/lloydlobo/calcyoulater/pull/2) in [lloydlobo/calcyoulater](https://github.com/lloydlobo/calcyoulater)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
