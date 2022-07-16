@@ -8,12 +8,12 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.lloydlobo.com/about"
     ><img
       src="https://readme-typing-svg.herokuapp.com?lines=I+am+a++Front-end+Developer;I+am+a+Writer;I+am+a+Life-Long+Learner;I+am+a+Psychology+Nerd;I+am+a+Design+Aficionado;I+am+a+Musician;I+am+a+Generalist;I+am+a+Failure;I+am+a+Tree+Hugger+🤣;I+am+a+Misfit;I+am+a+Doggie+and+Kittie+Lover;I+am+a+Nobody;What+am+I?+🤔&font=Fira%20Code&center=true&width=440&height=45&color=2ea043&vCenter=true&size=22&duration=4000"
   /></a>
-</p>
+</p> -->
 <!-- 	I am striving first to Be and then to Do the best that I can. -->
 
 <!-- Social Icons -->
@@ -95,17 +95,16 @@
 <!-- ABOUT SECTION -->
 <h2>🏂 &nbsp;About me :</h2>
 <p>
-  Hi, I am Lloyd Lobo, a software engineer and a designer hobbist amongst other
+  Hi, I am Lloyd, a software engineer and a design hobbist amongst other
   things. 
 	</br>
-	I enjoy building upon the latest Web Development technologies and
-  collecting lots of extensions. 😸
+	I enjoy building upon Web Development technologies and observe the tragic comedy of life in all it's forms. 😸
 </p>
 
-<p>
+<!-- <p>
   I intend to be a servant leader. See what I am
   <a target="_blank" href="https://www.polywork.com/lloydlobo">up to now</a>:
-</p>
+</p> -->
 
 <ul>
   <li>
