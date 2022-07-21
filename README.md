@@ -174,12 +174,12 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   42 hrs 35 mins  ███████████████████░░░░░░   76.20 %
-JavaScript   4 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-JSON         2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Markdown     1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-HTML         1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Rust         1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+TypeScript   39 hrs 17 mins  ██████████████████▒░░░░░░   73.71 %
+JavaScript   5 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+JSON         2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Markdown     1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+HTML         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Rust         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
