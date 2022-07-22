@@ -481,11 +481,11 @@ Rust         1 hr 6 mins     ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/lloydlobo/vortex-ball-collider/pull/8) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
-2. 🎉 Merged PR [#10](https://github.com/lloydlobo/vortex-ball-collider/pull/10) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
-3. 🎉 Merged PR [#9](https://github.com/lloydlobo/vortex-ball-collider/pull/9) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
-4. 💪 Opened PR [#8](https://github.com/lloydlobo/vortex-ball-collider/pull/8) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
-5. 🎉 Merged PR [#7](https://github.com/lloydlobo/collision-detection/pull/7) in [lloydlobo/collision-detection](https://github.com/lloydlobo/collision-detection)
+1. 🎉 Merged PR [#5](https://github.com/lloydlobo/cryptoculator/pull/5) in [lloydlobo/cryptoculator](https://github.com/lloydlobo/cryptoculator)
+2. 💪 Opened PR [#5](https://github.com/lloydlobo/cryptoculator/pull/5) in [lloydlobo/cryptoculator](https://github.com/lloydlobo/cryptoculator)
+3. 🎉 Merged PR [#8](https://github.com/lloydlobo/vortex-ball-collider/pull/8) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
+4. 🎉 Merged PR [#10](https://github.com/lloydlobo/vortex-ball-collider/pull/10) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
+5. 🎉 Merged PR [#9](https://github.com/lloydlobo/vortex-ball-collider/pull/9) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
