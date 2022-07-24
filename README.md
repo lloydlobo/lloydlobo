@@ -481,11 +481,11 @@ Other        25 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/lloydlobo/neuraone/pull/1) in [lloydlobo/neuraone](https://github.com/lloydlobo/neuraone)
-2. 💪 Opened PR [#1](https://github.com/lloydlobo/neuraone/pull/1) in [lloydlobo/neuraone](https://github.com/lloydlobo/neuraone)
-3. 🎉 Merged PR [#5](https://github.com/lloydlobo/cryptoculator/pull/5) in [lloydlobo/cryptoculator](https://github.com/lloydlobo/cryptoculator)
-4. 💪 Opened PR [#5](https://github.com/lloydlobo/cryptoculator/pull/5) in [lloydlobo/cryptoculator](https://github.com/lloydlobo/cryptoculator)
-5. 🎉 Merged PR [#8](https://github.com/lloydlobo/vortex-ball-collider/pull/8) in [lloydlobo/vortex-ball-collider](https://github.com/lloydlobo/vortex-ball-collider)
+1. 💪 Opened PR [#50](https://github.com/lloydlobo/weather-app/pull/50) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+2. 💪 Opened PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/8) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
+3. 🎉 Merged PR [#1](https://github.com/lloydlobo/neuraone/pull/1) in [lloydlobo/neuraone](https://github.com/lloydlobo/neuraone)
+4. 💪 Opened PR [#1](https://github.com/lloydlobo/neuraone/pull/1) in [lloydlobo/neuraone](https://github.com/lloydlobo/neuraone)
+5. 🎉 Merged PR [#5](https://github.com/lloydlobo/cryptoculator/pull/5) in [lloydlobo/cryptoculator](https://github.com/lloydlobo/cryptoculator)
    <!--END_SECTION:activity-->
 
 #### 💻 GitHub Profile Stats
