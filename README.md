@@ -481,7 +481,7 @@ Lua          37 mins         █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/lloydlobo/neuraone/pull/2) in [lloydlobo/neuraone](https://github.com/lloydlobo/neuraone)
+1. 💪 Opened PR [#1](https://github.com/lloydlobo/rust-breakout-game/pull/1) in [lloydlobo/rust-breakout-game](https://github.com/lloydlobo/rust-breakout-game)
 2. 💪 Opened PR [#19](https://github.com/lloydlobo/styleguide-homely-recipes/pull/19) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
 3. 💪 Opened PR [#50](https://github.com/lloydlobo/weather-app/pull/50) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
 4. 💪 Opened PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/8) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
