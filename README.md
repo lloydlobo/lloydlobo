@@ -174,12 +174,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       5 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.38 %
-TypeScript   3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-Rust         1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-tutor        1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-CSS          1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Lua          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
