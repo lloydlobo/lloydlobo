@@ -174,7 +174,8 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Lua     11 mins         ██████████████░░░░░░░░░░░   56.23 %
+Other   5 mins          ███████▒░░░░░░░░░░░░░░░░░   28.81 %
 ```
 
 <!--END_SECTION:waka-->
