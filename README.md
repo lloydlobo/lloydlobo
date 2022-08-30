@@ -174,8 +174,8 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Lua     11 mins         ██████████████░░░░░░░░░░░   56.23 %
-Other   5 mins          ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+Lua     43 mins         ███████████████████▒░░░░░   77.70 %
+Other   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
 ```
 
 <!--END_SECTION:waka-->
