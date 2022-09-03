@@ -480,7 +480,7 @@ Other        16 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/lloydlobo/rust-breakout-game/pull/1) in [lloydlobo/rust-breakout-game](https://github.com/lloydlobo/rust-breakout-game)
+1. ❗️ Opened issue [#3](https://github.com/esquires/neorg-gtd-project-tags/issues/3) in [esquires/neorg-gtd-project-tags](https://github.com/esquires/neorg-gtd-project-tags)
 2. 💪 Opened PR [#19](https://github.com/lloydlobo/styleguide-homely-recipes/pull/19) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
 3. 💪 Opened PR [#50](https://github.com/lloydlobo/weather-app/pull/50) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
 4. 💪 Opened PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/8) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
