@@ -174,12 +174,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-JSON         2 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.12 %
-Lua          1 hr 29 mins    ██████░░░░░░░░░░░░░░░░░░░   23.66 %
-JavaScript   1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
-TypeScript   35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Bash         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-conf         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
