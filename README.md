@@ -424,6 +424,7 @@ No activity tracked
 - [Knowledge Checks of The Odin Project — A Walkthrough for Web Development](https://blog.lloydlobo.com/web-development-knowledge-checks-the-odin-project)
 - [Daily Microblog](https://blog.lloydlobo.com/daily-microblog)
 - [Just Write Something](https://blog.lloydlobo.com/just-write-something)
+- [What is Imposter Syndrome? How to Overcome Facing Fears of Inadequacy and Self-Doubt?](https://medium.com/@thelloydlobo/what-is-imposter-syndrome-how-to-overcome-facing-fears-of-inadequacy-and-self-doubt-700be81a346f?source=rss-dec0b201d40d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## 🔭 &nbsp;What's Next? : -->
