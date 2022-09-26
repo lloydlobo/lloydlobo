@@ -174,7 +174,9 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C          19 mins         █████████████████░░░░░░░░   68.59 %
+JSON       7 mins          ███████░░░░░░░░░░░░░░░░░░   27.93 %
+Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
