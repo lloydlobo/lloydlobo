@@ -174,9 +174,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Go     3 hrs 11 mins   █████████████████████████   99.37 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Go   2 hrs 26 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
