@@ -476,9 +476,9 @@ No activity tracked
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/esquires/neorg-gtd-project-tags/issues/3) in [esquires/neorg-gtd-project-tags](https://github.com/esquires/neorg-gtd-project-tags)
-2. ❗️ Opened issue [#3](https://github.com/esquires/neorg-gtd-project-tags/issues/3) in [esquires/neorg-gtd-project-tags](https://github.com/esquires/neorg-gtd-project-tags)
-3. 💪 Opened PR [#50](https://github.com/lloydlobo/weather-app/pull/50) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+1. 💪 Opened PR [#55](https://github.com/lloydlobo/weather-app/pull/55) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+2. 💪 Opened PR [#54](https://github.com/lloydlobo/weather-app/pull/54) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
+3. 🗣 Commented on [#3](https://github.com/esquires/neorg-gtd-project-tags/issues/3) in [esquires/neorg-gtd-project-tags](https://github.com/esquires/neorg-gtd-project-tags)
 4. 💪 Opened PR [#8](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/8) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
 5. 🎉 Merged PR [#1](https://github.com/lloydlobo/neuraone/pull/1) in [lloydlobo/neuraone](https://github.com/lloydlobo/neuraone)
    <!--END_SECTION:activity-->
