@@ -174,11 +174,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      52 hrs 40 mins  ███████████████████████▓░   94.67 %
-JSON            1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-JavaScript      57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Markdown        19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other           19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript      56 hrs 56 mins  ██████████████████████▓░░   90.73 %
+SCSS            2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+JavaScript      1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+JSON            1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Other           22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
