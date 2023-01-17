@@ -174,10 +174,10 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Rust         47 hrs 42 mins  █████████████████████▒░░░   85.44 %
-Markdown     5 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-JSON         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Rust         44 hrs 33 mins  ███████████████████░░░░░░   76.05 %
+Markdown     11 hrs 25 mins  █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+JSON         1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Other        50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
