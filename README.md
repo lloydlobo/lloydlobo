@@ -479,8 +479,8 @@ Other         21 mins         ▒░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#31](https://github.com/lloydlobo/styleguide-homely-recipes/pull/31) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
-2. 💪 Opened PR [#20](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/20) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
+1. 💪 Opened PR [#21](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/21) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
+2. 💪 Opened PR [#31](https://github.com/lloydlobo/styleguide-homely-recipes/pull/31) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
 3. 💪 Opened PR [#30](https://github.com/lloydlobo/styleguide-homely-recipes/pull/30) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
 4. 💪 Opened PR [#64](https://github.com/lloydlobo/weather-app/pull/64) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
 5. 💪 Opened PR [#18](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/18) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
