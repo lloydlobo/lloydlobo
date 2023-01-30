@@ -54,9 +54,14 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 ## 🏋 &nbsp;Current Streak :
 
 <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dracula&hide_border=true"
+  alt="lloyd's GitHub work streak"
+/>
+
+<!-- <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
   alt="lloydlobo GitHub work streak"
-/>
+/> -->
 
 ## 📊 Github stats
 
