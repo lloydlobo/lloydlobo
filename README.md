@@ -76,17 +76,24 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 5. 💪 Opened PR [#18](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/18) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
    <!--END_SECTION:activity-->
 
+
+
 #### 💻 GitHub Profile Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img
+[![lloyd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![lloyd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![lloyd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![lloyd's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img
     alt="lloydlobo's Github Stats"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lloydlobo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
     height="192px"
-/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img
+/></a> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img
     alt="lloydlobo's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"
-/></a>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"
+/></a> -->
 
 <!--    </details> -->
 
@@ -115,7 +122,7 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- https://github-readme-activity-graph.cyclic.app -->
-[![lloyd's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lloydlobo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![lloyd's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lloydlobo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img
     alt="lloydlobo's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=lloydlobo&theme=github&hide_border=true&area=true"
