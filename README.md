@@ -1,5 +1,5 @@
 <h3 align="left">
-  Welcome to Lloyd's profile!
+  Welcome!
   <a href="https://www.lloydlobo.com/" target="\_blank"
     ><img
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
@@ -45,30 +45,10 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!-- <sub>Uses [WakaTime](https://wakatime.com/@lloydlobo) integrated with VS Code</sub>  -->
-[![wakatime](https://wakatime.com/badge/user/906b6002-20d3-446f-8f9c-4dd4d504fa63.svg)](https://wakatime.com/@906b6002-20d3-446f-8f9c-4dd4d504fa63)   
-<sub>SINCE JAN 25 2022</sub>
-
-<!-- <img src="https://hookrace.net/time.gif"> -->
-
-## 🏋 &nbsp;Current Streak :
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dracula&hide_border=true"
-  alt="lloyd's GitHub work streak"
-/>
-
-<!-- <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dark&dates=98972d&sideLabels=ebdbb2&stroke=babdc0&sideNums=98972d&hide_border=true"
-  alt="lloydlobo GitHub work streak"
-/> -->
+<sub>SINCE JAN 2022</sub>  
+[![wakatime](https://wakatime.com/badge/user/906b6002-20d3-446f-8f9c-4dd4d504fa63.svg)](https://wakatime.com/@906b6002-20d3-446f-8f9c-4dd4d504fa63)  
 
 ## 📊 Github stats
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!-- <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/> -->
 
 ### ⚡ Recent GitHub Activity
 
@@ -81,7 +61,9 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 5. 💪 Opened PR [#18](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/18) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
    <!--END_SECTION:activity-->
 
+### 🏋 &nbsp;Current Streak :
 
+[![lloyd's github work streak](https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dracula&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
 
 #### 💻 GitHub Profile Stats
 <!-- Languages (Dark/Light) + Github Stats (Dark/Light) -->
