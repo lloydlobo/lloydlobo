@@ -114,83 +114,14 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img
+<!-- https://github-readme-activity-graph.cyclic.app -->
+[![lloyd's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lloydlobo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img
     alt="lloydlobo's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=lloydlobo&theme=github&hide_border=true&area=true"
 /></a>
-
+ -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lloydlobo's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lloydlobo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
-
-## 👏&nbsp;Credits :
-
-<details>
-  <summary>
-    <b>🖱 &nbsp;Click here to see the inspiration behind this README:</b>
-  </summary>
-
-  <p>
-    🎥 &nbsp;Listed in the order of their appearances, starting from the top:
-  </p>
-  <ul>
-    <li>
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"
-        >DenverCoder1/readme-typing-svg</a
-      >
-    </li>
-    <li>
-      <a href="https://komarev.com/ghpvc"
-        >antonkomarev/github-profile-views-counter</a
-      >
-    </li>
-    <li>
-      <a href="https://lottiefiles.com/36121-developer-at-work"
-        >"Emad Moradian - Developer at work" (Customized GIF)</a
-      >
-    </li>
-    <li><a href="https://github.com/def-/time.gif">def-/time.gif</a></li>
-    <li>
-      <a href="https://github.com/athul/waka-readme">athul/waka-readme</a>
-    </li>
-    <li>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats"
-        >DenverCoder1/npgithub-readme-streak-stats</a
-      >
-    </li>
-    <li>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"
-        >vn7n24fzkq/github-profile-summary-cards</a
-      >
-    </li>
-    <li>
-      <a href="https://github.com/gautamkrishnar/blog-post-workflow"
-        >gautamkrishnar/blog-post-workflow</a
-      >
-    </li>
-    <li>
-      <a href="https://github.com/jamesgeorge007/github-activity-readme"
-        >jamesgeorge007/github-activity-readme</a
-      >
-    </li>
-    <li>
-      <a href="https://github.com/anuraghazra/github-readme-stats"
-        >anuraghazra/github-readme-stats</a
-      >
-    </li>
-    <li>
-      <a href="https://github.com/codersrank-org/skills-chart-widget"
-        >codersrank-org/skills-chart-widget</a
-      >
-    </li>
-    <!-- <li><a href="https://github.com/ryo-ma/github-profile-trophy/">ryo-ma/github-profile-trophy</a></li> -->
-    <li>
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph"
-        >ashutosh00710/github-readme-activity-graph</a
-      >
-    </li>
-    <!-- <li><a href="https://github.com/ABSphreak/readme-jokes">ABSphreak/readme-jokes</a></li> -->
-  </ul>
-</details>
 
 ---
 
