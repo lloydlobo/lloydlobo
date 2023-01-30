@@ -13,8 +13,8 @@
 somebody out there._
 > >
 > — _Léonie Watson, Front-Trends 2015_
-<!-- ALL REPOS & ALL FORKS Button -->
 
+<!-- ALL REPOS & ALL FORKS Button -->
 <p align="left">
   <a href="https://github.com/lloydlobo?tab=repositories&sort=stargazers"
     ><img
@@ -45,7 +45,7 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<sub>SINCE JAN 2022</sub>  
+<sub>2022 - Present</sub>  
 [![wakatime](https://wakatime.com/badge/user/906b6002-20d3-446f-8f9c-4dd4d504fa63.svg)](https://wakatime.com/@906b6002-20d3-446f-8f9c-4dd4d504fa63)  
 
 ## 📊 Github stats
@@ -72,28 +72,6 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
 [![lloyd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![lloyd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img
-    alt="lloydlobo's Github Stats"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lloydlobo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-    height="192px"
-/></a> -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img
-    alt="lloydlobo's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"
-/></a> -->
-
-<!--    </details> -->
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lloydlobo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lloydlobo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lloydlobo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details> -->
-
 <!-- Codersrank All-Time Language Stats  -->
 <details>
   <summary>
@@ -107,22 +85,15 @@ TOML          55 mins         ▒░░░░░░░░░░░░░░░�
   </a>
 </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- https://github-readme-activity-graph.cyclic.app -->
 [![lloyd's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lloydlobo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img
-    alt="lloydlobo's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=lloydlobo&theme=github&hide_border=true&area=true"
-/></a>
- -->
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lloydlobo's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=lloydlobo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 ---
 
 <!-- Surprise!  -->
 
-<sub>🤫 <span>&nbsp;</span>Psst! And don't forget. You are
-  <a target="_blank" href="https://youtu.be/b-E2tcRlgsU?t=183">AWESOME!</a></sub>
+<sub>🤫 <span>&nbsp;</span>Psst! ...and don't forget. You are
+  <a target="_blank" href="https://youtu.be/b-E2tcRlgsU?t=183">🏆</a></sub>
 
 <!--
 Made with 🖤
