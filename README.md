@@ -35,10 +35,9 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Rust        50 hrs 36 mins  ██████████████████████▓░░   90.18 %
-Markdown    1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-TOML        1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Other       46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Rust        49 hrs 57 mins  ██████████████████████░░░   87.99 %
+Markdown    2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Other       1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
