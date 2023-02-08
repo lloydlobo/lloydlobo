@@ -35,9 +35,9 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Rust        49 hrs 15 mins  █████████████████████▓░░░   86.72 %
-Markdown    1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other       1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Rust        53 hrs 24 mins  ██████████████████████▒░░   89.99 %
+Markdown    1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other       1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
