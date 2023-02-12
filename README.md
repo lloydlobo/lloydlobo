@@ -53,9 +53,9 @@ Other       1 hr 6 mins     ▒░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/lloydlobo/mausam/pull/2) in [lloydlobo/mausam](https://github.com/lloydlobo/mausam)
-2. 🎉 Merged PR [#1](https://github.com/lloydlobo/mausam/pull/1) in [lloydlobo/mausam](https://github.com/lloydlobo/mausam)
-3. 💪 Opened PR [#31](https://github.com/lloydlobo/styleguide-homely-recipes/pull/31) in [lloydlobo/styleguide-homely-recipes](https://github.com/lloydlobo/styleguide-homely-recipes)
+1. 🎉 Merged PR [#1](https://github.com/lloydlobo/mandelbrot/pull/1) in [lloydlobo/mandelbrot](https://github.com/lloydlobo/mandelbrot)
+2. 🎉 Merged PR [#2](https://github.com/lloydlobo/mausam/pull/2) in [lloydlobo/mausam](https://github.com/lloydlobo/mausam)
+3. 🎉 Merged PR [#1](https://github.com/lloydlobo/mausam/pull/1) in [lloydlobo/mausam](https://github.com/lloydlobo/mausam)
 4. 💪 Opened PR [#64](https://github.com/lloydlobo/weather-app/pull/64) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
 5. 💪 Opened PR [#18](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/18) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
    <!--END_SECTION:activity-->
