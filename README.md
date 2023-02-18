@@ -78,7 +78,7 @@ Other         1 hr 24 mins    ▓░░░░░░░░░░░░░░░�
   <br />
   <a href="https://profile.codersrank.io/user/lloydlobo/">
     <img
-      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=30&skills=angular,batchfile,c,C%23,coffeescript,css,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue&show-other-skills=true&branding=true&tooltip=true&width=640&height=320&bg=fcfcfc"
+      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=30&skills=angular,batchfile,c,C%23,css,dart,go,html,java,javascript,less,lua,mysql,php,pandas,perl,python,reactjs,rust,scss,shell,svelte,swift,sql,typescript,vue&show-other-skills=true&branding=true&tooltip=true&width=640&height=320&bg=fcfcfc"
     />
   </a>
 </details>
