@@ -53,10 +53,10 @@ Other       48 mins         ▒░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/lloydlobo/ytscriptrs/pull/1) in [lloydlobo/ytscriptrs](https://github.com/lloydlobo/ytscriptrs)
-2. 🎉 Merged PR [#1](https://github.com/lloydlobo/mandelbrot/pull/1) in [lloydlobo/mandelbrot](https://github.com/lloydlobo/mandelbrot)
-3. 🎉 Merged PR [#2](https://github.com/lloydlobo/mausam/pull/2) in [lloydlobo/mausam](https://github.com/lloydlobo/mausam)
-4. 🎉 Merged PR [#1](https://github.com/lloydlobo/mausam/pull/1) in [lloydlobo/mausam](https://github.com/lloydlobo/mausam)
+1. 🎉 Merged PR [#4](https://github.com/lloydlobo/penny/pull/4) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+2. 🎉 Merged PR [#5](https://github.com/lloydlobo/penny/pull/5) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+3. 💪 Opened PR [#4](https://github.com/lloydlobo/penny/pull/4) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+4. 🎉 Merged PR [#1](https://github.com/lloydlobo/ytscriptrs/pull/1) in [lloydlobo/ytscriptrs](https://github.com/lloydlobo/ytscriptrs)
 5. 💪 Opened PR [#18](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/18) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
    <!--END_SECTION:activity-->
 
