@@ -53,11 +53,11 @@ Other       48 mins         ▒░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/lloydlobo/penny/pull/4) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
-2. 🎉 Merged PR [#5](https://github.com/lloydlobo/penny/pull/5) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
-3. 💪 Opened PR [#4](https://github.com/lloydlobo/penny/pull/4) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
-4. 🎉 Merged PR [#1](https://github.com/lloydlobo/ytscriptrs/pull/1) in [lloydlobo/ytscriptrs](https://github.com/lloydlobo/ytscriptrs)
-5. 💪 Opened PR [#18](https://github.com/lloydlobo/odin-rock-paper-scissors-docs/pull/18) in [lloydlobo/odin-rock-paper-scissors-docs](https://github.com/lloydlobo/odin-rock-paper-scissors-docs)
+1. 🎉 Merged PR [#6](https://github.com/lloydlobo/penny/pull/6) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+2. 🎉 Merged PR [#7](https://github.com/lloydlobo/penny/pull/7) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+3. 💪 Opened PR [#6](https://github.com/lloydlobo/penny/pull/6) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+4. 🎉 Merged PR [#4](https://github.com/lloydlobo/penny/pull/4) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+5. 🎉 Merged PR [#5](https://github.com/lloydlobo/penny/pull/5) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
    <!--END_SECTION:activity-->
 
 ### 🏋 &nbsp;Current Streak :
