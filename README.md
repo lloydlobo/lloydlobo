@@ -35,9 +35,9 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Python      31 hrs 36 mins  ██████████████████░░░░░░░   71.50 %
-Rust        5 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Other       1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Python       31 hrs 45 mins  ██████████████████▒░░░░░░   73.54 %
+TypeScript   4 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Other        1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
