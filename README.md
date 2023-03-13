@@ -53,7 +53,7 @@ Other             31 mins         ▒░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/lloydlobo/penny/pull/6) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
+1. 💪 Opened PR [#75](https://github.com/lloydlobo/weather-app/pull/75) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
 2. 🎉 Merged PR [#7](https://github.com/lloydlobo/penny/pull/7) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
 3. 💪 Opened PR [#6](https://github.com/lloydlobo/penny/pull/6) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
 4. 🎉 Merged PR [#4](https://github.com/lloydlobo/penny/pull/4) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
