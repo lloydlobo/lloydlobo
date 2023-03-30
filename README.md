@@ -48,17 +48,6 @@ Other        27 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 📊 Github stats
 
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#75](https://github.com/lloydlobo/weather-app/pull/75) in [lloydlobo/weather-app](https://github.com/lloydlobo/weather-app)
-2. 🎉 Merged PR [#7](https://github.com/lloydlobo/penny/pull/7) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
-3. 💪 Opened PR [#6](https://github.com/lloydlobo/penny/pull/6) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
-4. 🎉 Merged PR [#4](https://github.com/lloydlobo/penny/pull/4) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
-5. 🎉 Merged PR [#5](https://github.com/lloydlobo/penny/pull/5) in [lloydlobo/penny](https://github.com/lloydlobo/penny)
-   <!--END_SECTION:activity-->
-
 ### 🏋 &nbsp;Current Streak :
 
 [![lloyd's github work streak](https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dracula&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
