@@ -35,9 +35,10 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   47 hrs 42 mins  ██████████████████████▓░░   90.39 %
-CSS          3 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Other        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript   46 hrs 27 mins  ██████████████████████▒░░   89.35 %
+CSS          3 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Markdown     53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Other        34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
