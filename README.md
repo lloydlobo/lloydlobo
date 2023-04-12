@@ -22,7 +22,7 @@ somebody out there._
       title="All Repositories"
       src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"
   /></a>
-  <a href="https://github.com/lloydlobo/My-Contributions/blob/main/README.md"
+  <a href="https://github.com/lloydlobo?tab=repositories&q=&type=fork&language=&sort=stargazers"
     ><img
       alt="All Repositories"
       title="All Repositories"
