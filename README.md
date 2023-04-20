@@ -35,9 +35,9 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   20 hrs 16 mins  ████████████████████████▓   98.37 %
-CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript   26 hrs 22 mins  ███████████████████████▓░   95.23 %
+JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
