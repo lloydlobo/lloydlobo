@@ -54,7 +54,7 @@ HTML         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░
 
 [![lloyd's github work streak](https://github-readme-streak-stats.herokuapp.com/?user=lloydlobo&theme=dracula&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/)
 
-#### 💻 GitHub Profile Stats
+### 💻 GitHub Profile Stats
 <!-- Languages (Dark/Light) + Github Stats (Dark/Light) -->
 [![lloyd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![lloyd's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
