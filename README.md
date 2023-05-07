@@ -35,11 +35,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.93 %
-Svelte       7 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 %
-Rust         3 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
-Python       1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-CSS          1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Svelte       7 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   44.92 %
+TypeScript   6 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.31 %
+Python       1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+CSS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
