@@ -35,11 +35,9 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       6 hrs 21 mins   ██████████████████▓░░░░░░   74.23 %
-Python       1 hr 28 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-CSS          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Svelte       50 mins         ████████████████████████░   96.06 %
+Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
