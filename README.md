@@ -35,9 +35,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       24 mins         ███████████████████████░░   92.37 %
-Python       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Svelte   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
