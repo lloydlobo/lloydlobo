@@ -35,7 +35,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other        50 mins         ██████████░░░░░░░░░░░░░░░   39.59 %
+Lua          24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+i3config     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+TypeScript   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Bash         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
 ```
 
 <!--END_SECTION:waka-->
