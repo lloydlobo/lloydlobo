@@ -15,7 +15,7 @@ somebody out there._
 > — _Léonie Watson, Front-Trends 2015_
 
 <!-- ALL REPOS & ALL FORKS Button -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/lloydlobo?tab=repositories&sort=stargazers"
     ><img
       alt="All Repositories"
@@ -28,7 +28,7 @@ somebody out there._
       title="All Repositories"
       src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"
   /></a>
-</p>
+</p> -->
 
 ## 📊 &nbsp;This week, I spent my time on :
 
