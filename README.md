@@ -74,17 +74,5 @@ Lua        38 mins         █▒░░░░░░░░░░░░░░░�
 </details>
 
 <!-- https://github-readme-activity-graph.cyclic.app -->
-[![lloyd's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lloydlobo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<!-- Surprise!  -->
-
-<sub>🤫 <span>&nbsp;</span>Psst! ...and don't forget. You are
-  <a target="_blank" href="https://youtu.be/b-E2tcRlgsU?t=183">🏆</a></sub>
-
-<!--
-Made with 🖤
-🙇‍♂️🎤⬇️
--->
+[![lloyd's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lloydlobo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
