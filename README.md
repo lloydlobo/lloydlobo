@@ -61,17 +61,21 @@ Rust       1 hr 2 mins     ▓░░░░░░░░░░░░░░░░�
 [![lloyd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- Codersrank All-Time Language Stats  -->
+<!--
 <details>
   <summary>
     <b>📈&nbsp;&nbsp;All-Time Language&nbsp;/&nbsp;Framework Stats</b>
   </summary>
   <br />
+-->
   <a href="https://profile.codersrank.io/user/lloydlobo/">
     <img
-      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=30&skills=angular,batchfile,c,C%23,css,dart,go,html,java,javascript,jupyter+notebook,less,lua,mysql,php,pandas,python,reactjs,rust,shell,svelte,swift,sql,typescript,vue,zig&show-other-skills=true&branding=true&tooltip=true&width=640&height=320&bg=fcfcfc"
+      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=0&skills=angular,batchfile,c,C%23,css,dart,go,html,java,javascript,jupyter+notebook,less,lua,mysql,php,pandas,python,reactjs,rust,shell,svelte,swift,sql,typescript,vue,zig&show-other-skills=true&branding=true&tooltip=true&width=640&height=160&bg=1f242c"
     />
   </a>
+<!--
 </details>
+-->
 
 <!-- https://github-readme-activity-graph.cyclic.app -->
 [![lloyd's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lloydlobo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
