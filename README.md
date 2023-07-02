@@ -3,8 +3,7 @@
   <a href="https://www.lloydlobo.com/" target="\_blank"
     ><img
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-      width="28" /></a
-  >&nbsp;<a href="https://www.lloydlobo.com/" target="\_blank">👨🏽‍💻 </a>
+      width="28" /></a>
 </h3>
 
 
