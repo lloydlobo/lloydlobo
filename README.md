@@ -34,8 +34,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Python   5 mins          ██████████████████████░░░   88.59 %
-Bash     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Bash   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
