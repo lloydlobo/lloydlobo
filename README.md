@@ -13,22 +13,6 @@ somebody out there._
 > >
 > — _Léonie Watson, Front-Trends 2015_
 
-<!-- ALL REPOS & ALL FORKS Button -->
-<!-- <p align="left">
-  <a href="https://github.com/lloydlobo?tab=repositories&sort=stargazers"
-    ><img
-      alt="All Repositories"
-      title="All Repositories"
-      src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"
-  /></a>
-  <a href="https://github.com/lloydlobo?tab=repositories&q=&type=fork&language=&sort=stargazers"
-    ><img
-      alt="All Repositories"
-      title="All Repositories"
-      src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"
-  /></a>
-</p> -->
-
 ## 📊 &nbsp;This week, I spent my time on :
 
 <!--START_SECTION:waka-->
