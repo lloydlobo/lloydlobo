@@ -18,7 +18,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     11 mins         ███████▓░░░░░░░░░░░░░░░░░   31.28 %
+JSON         10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.71 %
+TypeScript   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+Text         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
