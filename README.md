@@ -53,7 +53,7 @@ Markdown          36 mins         ▓░░░░░░░░░░░░░░�
 -->
   <a href="https://profile.codersrank.io/user/lloydlobo/">
     <img
-      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=0&skills=angular,batchfile,c,C%2B%2B,C%23,css,dart,go,html,java,javascript,jupyter+notebook,less,lua,mysql,php,pandas,python,reactjs,rust,shell,svelte,swift,sql,typescript,vue,zig&show-other-skills=true&branding=true&tooltip=true&width=640&height=160&bg=1f242c"
+      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=0&skills=angular,assembly,batchfile,c,C%2B%2B,C%23,css,dart,go,html,java,javascript,jupyter+notebook,less,lua,mysql,php,pandas,python,reactjs,rust,shell,svelte,swift,sql,typescript,vue,zig&show-other-skills=true&branding=true&tooltip=true&width=640&height=160&bg=1f242c"
     />
   </a>
 <!--
