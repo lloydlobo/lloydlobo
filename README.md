@@ -18,10 +18,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-CSS        23 mins         ███████████▓░░░░░░░░░░░░░   46.71 %
-Python     14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.19 %
-Markdown   11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
