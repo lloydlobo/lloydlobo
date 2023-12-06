@@ -18,7 +18,10 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           2 hrs 3 mins    ████████████████████████░   96.05 %
+GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
