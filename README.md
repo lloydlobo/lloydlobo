@@ -18,7 +18,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           1 hr 19 mins    ███████████████████▒░░░░░   77.40 %
+templ        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+CSS          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
