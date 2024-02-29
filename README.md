@@ -18,11 +18,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Go           14 hrs 14 mins  ████████████████▓░░░░░░░░   66.65 %
-JavaScript   2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-HTML         1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Markdown     1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Makefile     56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Go           8 hrs 59 mins   ███████████████▓░░░░░░░░░   62.28 %
+JavaScript   2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+HTML         1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Makefile     56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
