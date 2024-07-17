@@ -27,6 +27,9 @@ Nix              1 hr 51 mins    ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+<details>
+
 <sub>2022 - Present</sub>  
 [![wakatime](https://wakatime.com/badge/user/906b6002-20d3-446f-8f9c-4dd4d504fa63.svg)](https://wakatime.com/@906b6002-20d3-446f-8f9c-4dd4d504fa63)  
 
@@ -63,3 +66,4 @@ Nix              1 hr 51 mins    ▓░░░░░░░░░░░░░░�
 <!-- https://github-readme-activity-graph.cyclic.app -->
 [![lloyd's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lloydlobo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</details>
