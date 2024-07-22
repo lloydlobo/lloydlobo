@@ -18,11 +18,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Python           19 hrs 39 mins  ████████▒░░░░░░░░░░░░░░░░   33.92 %
-Assembly         13 hrs 5 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
-Odin             7 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Zig              3 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Nix              2 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Assembly         16 hrs 11 mins  ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Python           15 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   27.81 %
+Odin             8 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Zig              3 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Makefile         2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
