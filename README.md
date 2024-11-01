@@ -1,19 +1,15 @@
-<h3 align="left">
-  Welcome!
-  <a href="https://www.lloydlobo.com/" target="\_blank"
+Welcome! <a href="https://www.lloydlobo.com/" target="\_blank"
     ><img
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
       width="28" /></a>
-</h3>
-
 
 > _Just try and fix something. One thing, two things, another thing tomorrow._   
 > _And if you can do that, then trust me, you'll be making a difference for
 somebody out there._
-> >
+>
 > — _Léonie Watson, Front-Trends 2015_
 
-## 📊 &nbsp;This week, I spent my time on :
+## 📊 &nbsp;Weekly stats
 
 <!--START_SECTION:waka-->
 
@@ -58,7 +54,7 @@ JavaScript   35 mins         ▒░░░░░░░░░░░░░░░░
 -->
   <a href="https://profile.codersrank.io/user/lloydlobo/">
     <img
-      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=0&skills=angular,assembly,batchfile,c,C%2B%2B,C%23,css,dart,go,html,java,javascript,jupyter+notebook,less,lua,mysql,php,pandas,python,reactjs,rust,shell,svelte,swift,sql,typescript,vue,zig&show-other-skills=true&branding=true&tooltip=true&width=640&height=160&bg=1f242c"
+      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=0&skills=assembly,c,C%2B%2B,C%23,css,go,html,java,javascript,jupyter+notebook,lua,mysql,php,python,rust,shell,sql,typescript,zig&show-other-skills=true&branding=true&tooltip=true&width=640&height=160&bg=1f242c"
     />
   </a>
 <!--
