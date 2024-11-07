@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          35 hrs 27 mins  ██████████████████▒░░░░░░   72.91 %
-GLSL         8 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-Markdown     2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-TypeScript   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JavaScript   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Lua          37 hrs 21 mins  ███████████████████▓░░░░░   78.14 %
+GLSL         6 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Markdown     2 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+JavaScript   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+TypeScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
