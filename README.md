@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          38 hrs 29 mins  ████████████████████░░░░░   80.31 %
-GLSL         8 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-Markdown     48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Lua          32 hrs 1 min    █████████████████░░░░░░░░   67.92 %
+GLSL         13 hrs 24 mins  ███████░░░░░░░░░░░░░░░░░░   28.43 %
+GDScript3    1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Markdown     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
