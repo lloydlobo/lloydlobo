@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3     8 hrs 32 mins   ████████████████████████░   95.42 %
-Markdown      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Other         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+GDScript3     8 hrs 32 mins   ███████████████████████▓░   94.55 %
+Other         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Markdown      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 Git Config    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-netrw         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+netrw         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
