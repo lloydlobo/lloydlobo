@@ -41,6 +41,8 @@ YAML         42 mins         ▒░░░░░░░░░░░░░░░░
 [![lloyd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![lloyd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lloydlobo&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+<figure><embed src="https://wakatime.com/share/@lloydlobo/5e1e1a67-237f-46ab-b4f8-7bf3669110a2.svg"></embed></figure>
+
 <!-- Codersrank All-Time Language Stats  -->
 <a href="https://profile.codersrank.io/user/lloydlobo/">
     <img
