@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Go               20 hrs 41 mins  █████████████▒░░░░░░░░░░░   53.04 %
-HTML             7 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-JavaScript       4 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-PHP              2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Bash             1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Go               24 hrs 10 mins  ███████████████▒░░░░░░░░░   60.87 %
+HTML             5 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+JavaScript       4 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+PHP              2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Blade Template   1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
