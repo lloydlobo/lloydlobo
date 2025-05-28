@@ -44,13 +44,6 @@ C++              14 mins         ▒░░░░░░░░░░░░░░�
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lloydlobo/4d95632a-93ad-49bc-8fa8-0d7d596ad2a1.png" /></a> -->
 [![Languages over All Time](https://wakatime.com/share/@lloydlobo/4d95632a-93ad-49bc-8fa8-0d7d596ad2a1.png)](https://wakatime.com)
 
-<!-- Codersrank All-Time Language Stats  -->
-<a href="https://profile.codersrank.io/user/lloydlobo/">
-    <img
-      src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=lloydlobo&padding=0&skills=assembly,c,C%2B%2B,C%23,css,go,html,java,javascript,jupyter+notebook,lua,mysql,php,python,rust,shell,sql,typescript,zig&show-other-skills=true&branding=true&tooltip=true&width=640&height=160&bg=1f242c"
-    />
-</a>
-
 <!-- https://github-readme-activity-graph.cyclic.app -->
 [![lloyd's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lloydlobo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
