@@ -11,9 +11,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-i3config     3 mins          ██████████████▒░░░░░░░░░░   57.97 %
-JavaScript   2 mins          ██████████▒░░░░░░░░░░░░░░   41.52 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+i3config   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
