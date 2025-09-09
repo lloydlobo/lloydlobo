@@ -11,7 +11,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-i3config   3 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
