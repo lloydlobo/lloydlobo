@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       17 hrs 40 mins  █████████████▒░░░░░░░░░░░   53.35 %
-Astro            12 hrs 16 mins  █████████▒░░░░░░░░░░░░░░░   37.05 %
-JSON             1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Markdown         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Image (svg)      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+TypeScript       16 hrs 57 mins  ███████████▓░░░░░░░░░░░░░   46.30 %
+Astro            14 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   40.05 %
+JSON             2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Markdown         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Image (svg)      37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
