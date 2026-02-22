@@ -11,8 +11,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   18 mins               ███████████████████████▒░   92.89 %
-Lua        1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
