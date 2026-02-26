@@ -1,4 +1,4 @@
-<h1>Hey there!&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></h1>
+<h1>Hi!&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></h1>
 
 > _Just try and fix something. One thing, two things, another thing tomorrow._   
 > _And if you can do that, then trust me, you'll be making a difference for
