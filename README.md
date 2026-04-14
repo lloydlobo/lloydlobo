@@ -11,7 +11,10 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash       5 mins                ███████████████████░░░░░░   76.17 %
+zsh        1 min                 ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+Markdown   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
