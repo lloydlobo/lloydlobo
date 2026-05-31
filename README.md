@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 hrs 32 mins         ████████▒░░░░░░░░░░░░░░░░   32.72 %
-Markdown     4 hrs 57 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-CSS          4 hrs 11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-HTML         3 hrs 34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Bash         39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+JavaScript   9 hrs                 ████████▓░░░░░░░░░░░░░░░░   34.67 %
+Markdown     3 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+CSS          3 hrs 40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+TypeScript   3 hrs 31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+HTML         3 hrs                 ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
 ```
 
 <!--END_SECTION:waka-->
