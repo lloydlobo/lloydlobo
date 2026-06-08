@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          11 hrs 24 mins        ████████░░░░░░░░░░░░░░░░░   31.72 %
-Markdown            6 hrs 28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-Go                  4 hrs 57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Bash                3 hrs 29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-JSON                1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+TypeScript          9 hrs 41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+Go                  7 hrs 49 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Markdown            7 hrs 27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+Bash                3 hrs 45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+JSON                1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
