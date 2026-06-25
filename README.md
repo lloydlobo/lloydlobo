@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Zig              42 hrs 37 mins        ███████████████████▓░░░░░   78.02 %
-Markdown         3 hrs                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Zig File         2 hrs 42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-TypeScript       1 hr 11 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Go               1 hr 2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Zig              44 hrs 12 mins        ███████████████████▒░░░░░   77.91 %
+Markdown         3 hrs 9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Zig File         2 hrs 42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+TypeScript       1 hr 4 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Go               1 hr 2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
