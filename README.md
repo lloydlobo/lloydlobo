@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            4 hrs 53 mins         ███████░░░░░░░░░░░░░░░░░░   28.10 %
-Astro             3 hrs 27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-TypeScript        2 hrs 39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Markdown          2 hrs 32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Other             51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Kotlin            4 hrs 12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+Astro             3 hrs 46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Markdown          2 hrs 43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+TypeScript        2 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Other             47 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
