@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            20 hrs 9 mins         █████████████████░░░░░░░░   67.61 %
-Markdown          6 hrs 32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-Makefile          1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Git Config        1 hr 8 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Other             13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Kotlin            19 hrs 38 mins        █████████████████▓░░░░░░░   70.14 %
+Markdown          6 hrs 8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+Git Config        1 hr 8 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Makefile          37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Other             11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
