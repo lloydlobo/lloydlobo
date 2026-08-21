@@ -11,11 +11,11 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Python         20 hrs 49 mins        ██████████████░░░░░░░░░░░   55.73 %
-Kotlin         9 hrs 53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-JavaScript     3 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-Bash           1 hr 27 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Markdown       51 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Python         27 hrs 10 mins        ████████████████▓░░░░░░░░   67.17 %
+Kotlin         6 hrs 19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+JavaScript     3 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+TypeScript     1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Markdown       42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
