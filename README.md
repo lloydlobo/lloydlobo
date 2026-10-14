@@ -11,11 +11,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 28 mins        ████████████████████████░   95.53 %
-Markdown     20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-JSON         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-HTML         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Python       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   6 hrs 13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
