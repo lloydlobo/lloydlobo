@@ -11,8 +11,8 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 51 mins         █████████████████████████   99.53 %
-Markdown     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TypeScript   2 hrs 34 mins         ██████████████████████▓░░   90.46 %
+Markdown     16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
 ```
 
 <!--END_SECTION:waka-->
