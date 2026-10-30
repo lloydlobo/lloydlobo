@@ -11,11 +11,9 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 21 mins          █████████████████░░░░░░░░   68.21 %
-Markdown     28 mins               ██████░░░░░░░░░░░░░░░░░░░   23.89 %
-CSS          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Other        3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-i3config     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other      3 mins                ████████████████▓░░░░░░░░   66.63 %
+Markdown   1 min                 ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+i3config   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
 ```
 
 <!--END_SECTION:waka-->
