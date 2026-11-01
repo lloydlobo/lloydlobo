@@ -11,9 +11,7 @@ somebody out there._
 <!--START_SECTION:waka-->
 
 ```txt
-Other      3 mins                ████████████████▓░░░░░░░░   66.63 %
-Markdown   1 min                 ██████░░░░░░░░░░░░░░░░░░░   23.89 %
-i3config   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
